@@ -1,0 +1,1802 @@
+[
+  {
+    "material_id": "mp-00000",
+    "formula": "X0",
+    "formation_energy_per_atom": -0.3006571693977535,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00001",
+    "formula": "X1",
+    "formation_energy_per_atom": -0.42765286023423693,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00002",
+    "formula": "X2",
+    "formation_energy_per_atom": -0.2704622923798615,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00003",
+    "formula": "X3",
+    "formation_energy_per_atom": -0.09539402871839492,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00004",
+    "formula": "X4",
+    "formation_energy_per_atom": -0.4468306749446672,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00005",
+    "formula": "X5",
+    "formation_energy_per_atom": -0.4468273913898361,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00006",
+    "formula": "X6",
+    "formation_energy_per_atom": -0.08415743689852173,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00007",
+    "formula": "X7",
+    "formation_energy_per_atom": -0.24651305416941827,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00008",
+    "formula": "X8",
+    "formation_energy_per_atom": -0.49389487718699043,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00009",
+    "formula": "X9",
+    "formation_energy_per_atom": -0.2914879912828071,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00010",
+    "formula": "X10",
+    "formation_energy_per_atom": -0.4926835385624925,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00011",
+    "formula": "X11",
+    "formation_energy_per_atom": -0.49314595071405143,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00012",
+    "formula": "X12",
+    "formation_energy_per_atom": -0.3516075456867932,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00013",
+    "formula": "X13",
+    "formation_energy_per_atom": -0.7826560489315596,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00014",
+    "formula": "X14",
+    "formation_energy_per_atom": -0.7449835665026066,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00015",
+    "formula": "X15",
+    "formation_energy_per_atom": -0.5124575058481946,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00016",
+    "formula": "X16",
+    "formation_energy_per_atom": -0.6025662240668848,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00017",
+    "formula": "X17",
+    "formation_energy_per_atom": -0.33715053348094526,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00018",
+    "formula": "X18",
+    "formation_energy_per_atom": -0.5816048151042422,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00019",
+    "formula": "X19",
+    "formation_energy_per_atom": -0.6824607402670584,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00020",
+    "formula": "X20",
+    "formation_energy_per_atom": -0.10687024621568919,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00021",
+    "formula": "X21",
+    "formation_energy_per_atom": -0.44515526009730716,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00022",
+    "formula": "X22",
+    "formation_energy_per_atom": -0.38649435906241525,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00023",
+    "formula": "X23",
+    "formation_energy_per_atom": -0.6849496372426913,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00024",
+    "formula": "X24",
+    "formation_energy_per_atom": -0.5088765449050365,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00025",
+    "formula": "X25",
+    "formation_energy_per_atom": -0.3778154820580268,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00026",
+    "formula": "X26",
+    "formation_energy_per_atom": -0.6301987154844606,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00027",
+    "formula": "X27",
+    "formation_energy_per_atom": -0.3248603963308656,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00028",
+    "formula": "X28",
+    "formation_energy_per_atom": -0.520127737983761,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00029",
+    "formula": "X29",
+    "formation_energy_per_atom": -0.45833874995865537,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00030",
+    "formula": "X30",
+    "formation_energy_per_atom": -0.5203413224458794,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00031",
+    "formula": "X31",
+    "formation_energy_per_atom": -0.029544363098212456,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00032",
+    "formula": "X32",
+    "formation_energy_per_atom": -0.4026994449475868,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00033",
+    "formula": "X33",
+    "formation_energy_per_atom": -0.6115421857911801,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00034",
+    "formula": "X34",
+    "formation_energy_per_atom": -0.2354910175793622,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00035",
+    "formula": "X35",
+    "formation_energy_per_atom": -0.6441687299942045,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00036",
+    "formula": "X36",
+    "formation_energy_per_atom": -0.35822728099904894,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00037",
+    "formula": "X37",
+    "formation_energy_per_atom": -0.7919340247759552,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00038",
+    "formula": "X38",
+    "formation_energy_per_atom": -0.6656372097796861,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00039",
+    "formula": "X39",
+    "formation_energy_per_atom": -0.3606277528261753,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00040",
+    "formula": "X40",
+    "formation_energy_per_atom": -0.25230668400091794,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00041",
+    "formula": "X41",
+    "formation_energy_per_atom": -0.3657263437620059,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00042",
+    "formula": "X42",
+    "formation_energy_per_atom": -0.4231296564776481,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00043",
+    "formula": "X43",
+    "formation_energy_per_atom": -0.46022073911785777,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00044",
+    "formula": "X44",
+    "formation_energy_per_atom": -0.6957043980734855,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00045",
+    "formula": "X45",
+    "formation_energy_per_atom": -0.5439688416789418,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00046",
+    "formula": "X46",
+    "formation_energy_per_atom": -0.49212775419195753,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00047",
+    "formula": "X47",
+    "formation_energy_per_atom": -0.18857555475621687,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00048",
+    "formula": "X48",
+    "formation_energy_per_atom": -0.33127634208630774,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00049",
+    "formula": "X49",
+    "formation_energy_per_atom": -0.7526080310725468,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00050",
+    "formula": "X50",
+    "formation_energy_per_atom": -0.335183206121041,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00051",
+    "formula": "X51",
+    "formation_energy_per_atom": -0.4770164560832633,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00052",
+    "formula": "X52",
+    "formation_energy_per_atom": -0.5353844000611918,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00053",
+    "formula": "X53",
+    "formation_energy_per_atom": -0.27766474223182647,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00054",
+    "formula": "X54",
+    "formation_energy_per_atom": -0.19380009550080982,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00055",
+    "formula": "X55",
+    "formation_energy_per_atom": -0.2137439761767603,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00056",
+    "formula": "X56",
+    "formation_energy_per_atom": -0.5678435046445277,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00057",
+    "formula": "X57",
+    "formation_energy_per_atom": -0.46184247517024296,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00058",
+    "formula": "X58",
+    "formation_energy_per_atom": -0.33374731371928723,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00059",
+    "formula": "X59",
+    "formation_energy_per_atom": -0.20489097457552818,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00060",
+    "formula": "X60",
+    "formation_energy_per_atom": -0.49583484756905805,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00061",
+    "formula": "X61",
+    "formation_energy_per_atom": -0.4371317953327635,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00062",
+    "formula": "X62",
+    "formation_energy_per_atom": -0.6212669948012057,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00063",
+    "formula": "X63",
+    "formation_energy_per_atom": -0.6392413248161342,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00064",
+    "formula": "X64",
+    "formation_energy_per_atom": -0.2374948355211604,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00065",
+    "formula": "X65",
+    "formation_energy_per_atom": -0.12875199428583545,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00066",
+    "formula": "X66",
+    "formation_energy_per_atom": -0.41440202431606676,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00067",
+    "formula": "X67",
+    "formation_energy_per_atom": -0.19929342042159517,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00068",
+    "formula": "X68",
+    "formation_energy_per_atom": -0.3276727949904732,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00069",
+    "formula": "X69",
+    "formation_energy_per_atom": -0.5290239509210248,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00070",
+    "formula": "X70",
+    "formation_energy_per_atom": -0.32772087889831725,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00071",
+    "formula": "X71",
+    "formation_energy_per_atom": -0.09239268670680617,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00072",
+    "formula": "X72",
+    "formation_energy_per_atom": -0.40716520782199034,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00073",
+    "formula": "X73",
+    "formation_energy_per_atom": -0.08707126883719873,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00074",
+    "formula": "X74",
+    "formation_energy_per_atom": -0.9239490208179489,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00075",
+    "formula": "X75",
+    "formation_energy_per_atom": -0.23561949912495525,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00076",
+    "formula": "X76",
+    "formation_energy_per_atom": -0.38259058635236576,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00077",
+    "formula": "X77",
+    "formation_energy_per_atom": -0.4598014700931735,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00078",
+    "formula": "X78",
+    "formation_energy_per_atom": -0.3816478446928996,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00079",
+    "formula": "X79",
+    "formation_energy_per_atom": -0.7975137829201786,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00080",
+    "formula": "X80",
+    "formation_energy_per_atom": -0.4439343775675024,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00081",
+    "formula": "X81",
+    "formation_energy_per_atom": -0.3285774856976507,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00082",
+    "formula": "X82",
+    "formation_energy_per_atom": -0.10442119105169678,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00083",
+    "formula": "X83",
+    "formation_energy_per_atom": -0.5036540436547295,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00084",
+    "formula": "X84",
+    "formation_energy_per_atom": -0.5616987205786376,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00085",
+    "formula": "X85",
+    "formation_energy_per_atom": -0.5003514087169073,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00086",
+    "formula": "X86",
+    "formation_energy_per_atom": -0.21691957645958518,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00087",
+    "formula": "X87",
+    "formation_energy_per_atom": -0.3342497780680631,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00088",
+    "formula": "X88",
+    "formation_energy_per_atom": -0.5059520407534078,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00089",
+    "formula": "X89",
+    "formation_energy_per_atom": -0.2973465133773288,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00090",
+    "formula": "X90",
+    "formation_energy_per_atom": -0.380584490130392,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00091",
+    "formula": "X91",
+    "formation_energy_per_atom": -0.20627100189342218,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00092",
+    "formula": "X92",
+    "formation_energy_per_atom": -0.5404106187754705,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00093",
+    "formula": "X93",
+    "formation_energy_per_atom": -0.4655324293195537,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00094",
+    "formula": "X94",
+    "formation_energy_per_atom": -0.47842163062643156,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00095",
+    "formula": "X95",
+    "formation_energy_per_atom": -0.6927029896264237,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00096",
+    "formula": "X96",
+    "formation_energy_per_atom": -0.3407759445870848,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00097",
+    "formula": "X97",
+    "formation_energy_per_atom": -0.3477889455640222,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00098",
+    "formula": "X98",
+    "formation_energy_per_atom": -0.3989773086715078,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00099",
+    "formula": "X99",
+    "formation_energy_per_atom": -0.44691742667502943,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00100",
+    "formula": "X100",
+    "formation_energy_per_atom": -0.6830741484100828,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00101",
+    "formula": "X101",
+    "formation_energy_per_atom": -0.4841290645530718,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00102",
+    "formula": "X102",
+    "formation_energy_per_atom": -0.4685429033053539,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00103",
+    "formula": "X103",
+    "formation_energy_per_atom": -0.5604554538443238,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00104",
+    "formula": "X104",
+    "formation_energy_per_atom": -0.43225714233320184,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00105",
+    "formula": "X105",
+    "formation_energy_per_atom": -0.31918982863709233,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00106",
+    "formula": "X106",
+    "formation_energy_per_atom": -0.02276281975789396,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00107",
+    "formula": "X107",
+    "formation_energy_per_atom": -0.3650844374336322,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00108",
+    "formula": "X108",
+    "formation_energy_per_atom": -0.34848992185544714,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00109",
+    "formula": "X109",
+    "formation_energy_per_atom": -0.4148891831532335,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00110",
+    "formula": "X110",
+    "formation_energy_per_atom": -0.7837542430598083,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00111",
+    "formula": "X111",
+    "formation_energy_per_atom": -0.4053027750898434,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00112",
+    "formula": "X112",
+    "formation_energy_per_atom": -0.3879539580117947,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00113",
+    "formula": "X113",
+    "formation_energy_per_atom": 0.09264842249705724,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00114",
+    "formula": "X114",
+    "formation_energy_per_atom": -0.4384721929562245,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00115",
+    "formula": "X115",
+    "formation_energy_per_atom": -0.33969053153327755,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00116",
+    "formula": "X116",
+    "formation_energy_per_atom": -0.40694235394104866,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00117",
+    "formula": "X117",
+    "formation_energy_per_atom": -0.6337356075239065,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00118",
+    "formula": "X118",
+    "formation_energy_per_atom": -0.1714354370969959,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00119",
+    "formula": "X119",
+    "formation_energy_per_atom": -0.2496133934626452,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00120",
+    "formula": "X120",
+    "formation_energy_per_atom": -0.24179361059139062,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00121",
+    "formula": "X121",
+    "formation_energy_per_atom": -0.5818774909589478,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00122",
+    "formula": "X122",
+    "formation_energy_per_atom": -0.11944113781278015,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00123",
+    "formula": "X123",
+    "formation_energy_per_atom": -0.6803702125584562,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00124",
+    "formula": "X124",
+    "formation_energy_per_atom": -0.28262858123994594,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00125",
+    "formula": "X125",
+    "formation_energy_per_atom": 0.0380911251619957,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00126",
+    "formula": "X126",
+    "formation_energy_per_atom": -0.5981072650261376,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00127",
+    "formula": "X127",
+    "formation_energy_per_atom": -0.5132595459205544,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00128",
+    "formula": "X128",
+    "formation_energy_per_atom": -0.38006972698247177,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00129",
+    "formula": "X129",
+    "formation_energy_per_atom": -0.5006951308232399,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00130",
+    "formula": "X130",
+    "formation_energy_per_atom": -0.7101326862132266,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00131",
+    "formula": "X131",
+    "formation_energy_per_atom": -0.38628740503879455,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00132",
+    "formula": "X132",
+    "formation_energy_per_atom": -0.612460742745221,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00133",
+    "formula": "X133",
+    "formation_energy_per_atom": -0.3052815138729637,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00134",
+    "formula": "X134",
+    "formation_energy_per_atom": -0.5838848468467607,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00135",
+    "formula": "X135",
+    "formation_energy_per_atom": -0.09001311899649211,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00136",
+    "formula": "X136",
+    "formation_energy_per_atom": -0.5566506584672475,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00137",
+    "formula": "X137",
+    "formation_energy_per_atom": -0.46441230324113514,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00138",
+    "formula": "X138",
+    "formation_energy_per_atom": -0.23729655652606607,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00139",
+    "formula": "X139",
+    "formation_energy_per_atom": -0.6461728632867911,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00140",
+    "formula": "X140",
+    "formation_energy_per_atom": -0.3545080130791741,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00141",
+    "formula": "X141",
+    "formation_energy_per_atom": -0.13857144914351438,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00142",
+    "formula": "X142",
+    "formation_energy_per_atom": -0.7214966469122456,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00143",
+    "formula": "X143",
+    "formation_energy_per_atom": -0.36307322829353916,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00144",
+    "formula": "X144",
+    "formation_energy_per_atom": -0.3480234411503153,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00145",
+    "formula": "X145",
+    "formation_energy_per_atom": -0.24363542564453794,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00146",
+    "formula": "X146",
+    "formation_energy_per_atom": -0.6473901421756164,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00147",
+    "formula": "X147",
+    "formation_energy_per_atom": -0.6640913226168552,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00148",
+    "formula": "X148",
+    "formation_energy_per_atom": -0.2956116868766205,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00149",
+    "formula": "X149",
+    "formation_energy_per_atom": -0.3406030653533628,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00150",
+    "formula": "X150",
+    "formation_energy_per_atom": -0.34990142993082474,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00151",
+    "formula": "X151",
+    "formation_energy_per_atom": -0.3307103581006049,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00152",
+    "formula": "X152",
+    "formation_energy_per_atom": -0.5360049443156982,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00153",
+    "formula": "X153",
+    "formation_energy_per_atom": -0.35354926056779934,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00154",
+    "formula": "X154",
+    "formation_energy_per_atom": -0.3413855053402638,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00155",
+    "formula": "X155",
+    "formation_energy_per_atom": -0.5428702836052736,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00156",
+    "formula": "X156",
+    "formation_energy_per_atom": -0.02684509777104871,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00157",
+    "formula": "X157",
+    "formation_energy_per_atom": -0.3052334158176425,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00158",
+    "formula": "X158",
+    "formation_energy_per_atom": -0.6382606994405298,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00159",
+    "formula": "X159",
+    "formation_energy_per_atom": -0.2686892782732341,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00160",
+    "formula": "X160",
+    "formation_energy_per_atom": -0.5949363340454643,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00161",
+    "formula": "X161",
+    "formation_energy_per_atom": -0.2425830792515096,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00162",
+    "formula": "X162",
+    "formation_energy_per_atom": -0.1682808841985192,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00163",
+    "formula": "X163",
+    "formation_energy_per_atom": -0.5641364636703421,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00164",
+    "formula": "X164",
+    "formation_energy_per_atom": -0.20732477415113565,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00165",
+    "formula": "X165",
+    "formation_energy_per_atom": -0.3174438146127003,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00166",
+    "formula": "X166",
+    "formation_energy_per_atom": -0.23558796800110202,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00167",
+    "formula": "X167",
+    "formation_energy_per_atom": -0.020641403469210506,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00168",
+    "formula": "X168",
+    "formation_energy_per_atom": -0.4490776232005741,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00169",
+    "formula": "X169",
+    "formation_energy_per_atom": -0.550747232871498,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00170",
+    "formula": "X170",
+    "formation_energy_per_atom": -0.5779028859251047,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00171",
+    "formula": "X171",
+    "formation_energy_per_atom": -0.5631620569930877,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00172",
+    "formula": "X172",
+    "formation_energy_per_atom": -0.41542034188282084,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00173",
+    "formula": "X173",
+    "formation_energy_per_atom": -0.33176960503667124,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00174",
+    "formula": "X174",
+    "formation_energy_per_atom": -0.3446618401339962,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00175",
+    "formula": "X175",
+    "formation_energy_per_atom": -0.23456335019279526,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00176",
+    "formula": "X176",
+    "formation_energy_per_atom": -0.3973996216244186,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00177",
+    "formula": "X177",
+    "formation_energy_per_atom": -0.10929318456853665,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00178",
+    "formula": "X178",
+    "formation_energy_per_atom": -0.45293136664759126,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00179",
+    "formula": "X179",
+    "formation_energy_per_atom": 0.14403383331792374,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00180",
+    "formula": "X180",
+    "formation_energy_per_atom": -0.27486653044699877,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00181",
+    "formula": "X181",
+    "formation_energy_per_atom": -0.5714315112832565,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00182",
+    "formula": "X182",
+    "formation_energy_per_atom": -0.6141784996122225,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00183",
+    "formula": "X183",
+    "formation_energy_per_atom": -0.30350551695136296,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00184",
+    "formula": "X184",
+    "formation_energy_per_atom": -0.4446925570651702,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00185",
+    "formula": "X185",
+    "formation_energy_per_atom": -0.25719990118158165,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00186",
+    "formula": "X186",
+    "formation_energy_per_atom": -0.30535247508529106,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00187",
+    "formula": "X187",
+    "formation_energy_per_atom": -0.41456578253137455,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00188",
+    "formula": "X188",
+    "formation_energy_per_atom": -0.569358743613681,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00189",
+    "formula": "X189",
+    "formation_energy_per_atom": -0.702969444937173,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00190",
+    "formula": "X190",
+    "formation_energy_per_atom": -0.48930299041340425,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00191",
+    "formula": "X191",
+    "formation_energy_per_atom": -0.22872024113530554,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00192",
+    "formula": "X192",
+    "formation_energy_per_atom": -0.3571812511739592,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00193",
+    "formula": "X193",
+    "formation_energy_per_atom": -0.6491477557423977,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00194",
+    "formula": "X194",
+    "formation_energy_per_atom": -0.3653638148297636,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00195",
+    "formula": "X195",
+    "formation_energy_per_atom": -0.3229365240542327,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00196",
+    "formula": "X196",
+    "formation_energy_per_atom": -0.5767714872402266,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00197",
+    "formula": "X197",
+    "formation_energy_per_atom": -0.3692549788108944,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00198",
+    "formula": "X198",
+    "formation_energy_per_atom": -0.38835825631080007,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00199",
+    "formula": "X199",
+    "formation_energy_per_atom": -0.6285940595661247,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00200",
+    "formula": "X200",
+    "formation_energy_per_atom": -0.32844252793034334,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00201",
+    "formula": "X201",
+    "formation_energy_per_atom": -0.28784309472635317,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00202",
+    "formula": "X202",
+    "formation_energy_per_atom": -0.18338975136494462,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00203",
+    "formula": "X203",
+    "formation_energy_per_atom": -0.18923958959301942,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00204",
+    "formula": "X204",
+    "formation_energy_per_atom": -0.6755338735914183,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00205",
+    "formula": "X205",
+    "formation_energy_per_atom": -0.5875650079830246,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00206",
+    "formula": "X206",
+    "formation_energy_per_atom": -0.2969929465582681,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00207",
+    "formula": "X207",
+    "formation_energy_per_atom": -0.29724280981755824,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00208",
+    "formula": "X208",
+    "formation_energy_per_atom": -0.29699046273879043,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00209",
+    "formula": "X209",
+    "formation_energy_per_atom": 0.3705462981309443,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00210",
+    "formula": "X210",
+    "formation_energy_per_atom": -0.28582189786136664,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00211",
+    "formula": "X211",
+    "formation_energy_per_atom": -0.17288687196388022,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00212",
+    "formula": "X212",
+    "formation_energy_per_atom": -0.20919964730135954,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00213",
+    "formula": "X213",
+    "formation_energy_per_atom": -0.26972174973884044,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00214",
+    "formula": "X214",
+    "formation_energy_per_atom": -0.46305384892806917,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00215",
+    "formula": "X215",
+    "formation_energy_per_atom": -0.24820615590134654,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00216",
+    "formula": "X216",
+    "formation_energy_per_atom": -0.5545650429075144,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00217",
+    "formula": "X217",
+    "formation_energy_per_atom": -0.4473637213480018,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00218",
+    "formula": "X218",
+    "formation_energy_per_atom": -0.4970727095658207,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00219",
+    "formula": "X219",
+    "formation_energy_per_atom": -0.3836251721227355,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00220",
+    "formula": "X220",
+    "formation_energy_per_atom": 0.06293171333470171,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00221",
+    "formula": "X221",
+    "formation_energy_per_atom": -0.7734530385183497,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00222",
+    "formula": "X222",
+    "formation_energy_per_atom": -0.2627479619250973,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00223",
+    "formula": "X223",
+    "formation_energy_per_atom": -0.7225431742379304,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00224",
+    "formula": "X224",
+    "formation_energy_per_atom": -0.4943863731578867,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00225",
+    "formula": "X225",
+    "formation_energy_per_atom": -0.1822098806065268,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00226",
+    "formula": "X226",
+    "formation_energy_per_atom": -0.38714399618090745,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00227",
+    "formula": "X227",
+    "formation_energy_per_atom": -0.6155489555858613,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00228",
+    "formula": "X228",
+    "formation_energy_per_atom": -0.5430607418519937,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00229",
+    "formula": "X229",
+    "formation_energy_per_atom": -0.2640804502130648,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00230",
+    "formula": "X230",
+    "formation_energy_per_atom": -0.5460733263434274,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00231",
+    "formula": "X231",
+    "formation_energy_per_atom": -0.35670828208360505,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00232",
+    "formula": "X232",
+    "formation_energy_per_atom": -0.39088563201923726,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00233",
+    "formula": "X233",
+    "formation_energy_per_atom": -0.5303200695211634,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00234",
+    "formula": "X234",
+    "formation_energy_per_atom": 0.028788817865065153,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00235",
+    "formula": "X235",
+    "formation_energy_per_atom": -0.27321619553639775,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00236",
+    "formula": "X236",
+    "formation_energy_per_atom": -0.8050285173315215,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00237",
+    "formula": "X237",
+    "formation_energy_per_atom": -0.3627091370461145,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00238",
+    "formula": "X238",
+    "formation_energy_per_atom": -0.5323572929536776,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00239",
+    "formula": "X239",
+    "formation_energy_per_atom": -0.22951333304075522,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00240",
+    "formula": "X240",
+    "formation_energy_per_atom": -0.5585041476865402,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00241",
+    "formula": "X241",
+    "formation_energy_per_atom": -0.4229472882933798,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00242",
+    "formula": "X242",
+    "formation_energy_per_atom": -0.2990025442039086,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00243",
+    "formula": "X243",
+    "formation_energy_per_atom": -0.22684896116597572,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00244",
+    "formula": "X244",
+    "formation_energy_per_atom": -0.6400592814111553,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00245",
+    "formula": "X245",
+    "formation_energy_per_atom": -0.4669002471681897,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00246",
+    "formula": "X246",
+    "formation_energy_per_atom": -0.49498906223219125,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00247",
+    "formula": "X247",
+    "formation_energy_per_atom": -0.5306658465147425,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00248",
+    "formula": "X248",
+    "formation_energy_per_atom": -0.04690915194378065,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00249",
+    "formula": "X249",
+    "formation_energy_per_atom": -0.3190036578078089,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00250",
+    "formula": "X250",
+    "formation_energy_per_atom": -0.6521767908670091,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00251",
+    "formula": "X251",
+    "formation_energy_per_atom": -0.2164276105890448,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00252",
+    "formula": "X252",
+    "formation_energy_per_atom": 0.024431239402526672,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00253",
+    "formula": "X253",
+    "formation_energy_per_atom": -0.19350694788977063,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00254",
+    "formula": "X254",
+    "formation_energy_per_atom": -0.7038739931908027,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00255",
+    "formula": "X255",
+    "formation_energy_per_atom": -0.4968468145732503,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00256",
+    "formula": "X256",
+    "formation_energy_per_atom": -0.14661777016267546,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00257",
+    "formula": "X257",
+    "formation_energy_per_atom": -0.5415338931237562,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00258",
+    "formula": "X258",
+    "formation_energy_per_atom": -0.3112361143707543,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00259",
+    "formula": "X259",
+    "formation_energy_per_atom": -0.24507318931413266,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00260",
+    "formula": "X260",
+    "formation_energy_per_atom": -0.5853860943156166,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00261",
+    "formula": "X261",
+    "formation_energy_per_atom": -0.41190507121236003,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00262",
+    "formula": "X262",
+    "formation_energy_per_atom": -1.0482534680138147,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00263",
+    "formula": "X263",
+    "formation_energy_per_atom": -0.604877528266858,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00264",
+    "formula": "X264",
+    "formation_energy_per_atom": -0.4505136302786321,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00265",
+    "formula": "X265",
+    "formation_energy_per_atom": -0.6495566363929699,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00266",
+    "formula": "X266",
+    "formation_energy_per_atom": -0.07351773921367294,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00267",
+    "formula": "X267",
+    "formation_energy_per_atom": -0.6860282755921265,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00268",
+    "formula": "X268",
+    "formation_energy_per_atom": -0.4880088973393968,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00269",
+    "formula": "X269",
+    "formation_energy_per_atom": -0.37385188454278173,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00270",
+    "formula": "X270",
+    "formation_energy_per_atom": -0.1117453421867769,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00271",
+    "formula": "X271",
+    "formation_energy_per_atom": -0.6871724302358879,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00272",
+    "formula": "X272",
+    "formation_energy_per_atom": -0.1673672495690081,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00273",
+    "formula": "X273",
+    "formation_energy_per_atom": -0.39795338779608264,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00274",
+    "formula": "X274",
+    "formation_energy_per_atom": -0.5963017302095902,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00275",
+    "formula": "X275",
+    "formation_energy_per_atom": -0.3075793051473459,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00276",
+    "formula": "X276",
+    "formation_energy_per_atom": -0.360188060885306,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00277",
+    "formula": "X277",
+    "formation_energy_per_atom": -0.5200433754317589,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00278",
+    "formula": "X278",
+    "formation_energy_per_atom": -0.38603958300199626,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00279",
+    "formula": "X279",
+    "formation_energy_per_atom": -0.47706271937235206,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00280",
+    "formula": "X280",
+    "formation_energy_per_atom": -0.3772965309497504,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00281",
+    "formula": "X281",
+    "formation_energy_per_atom": -0.2675738650957907,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00282",
+    "formula": "X282",
+    "formation_energy_per_atom": -0.08279663677092958,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00283",
+    "formula": "X283",
+    "formation_energy_per_atom": -0.6475630997653699,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00284",
+    "formula": "X284",
+    "formation_energy_per_atom": 0.02660667493125335,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00285",
+    "formula": "X285",
+    "formation_energy_per_atom": -0.7904175599045005,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00286",
+    "formula": "X286",
+    "formation_energy_per_atom": -0.4303570190071167,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00287",
+    "formula": "X287",
+    "formation_energy_per_atom": -0.2823365587030847,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00288",
+    "formula": "X288",
+    "formation_energy_per_atom": -0.3438016264529935,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00289",
+    "formula": "X289",
+    "formation_energy_per_atom": -0.5245399039641188,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00290",
+    "formula": "X290",
+    "formation_energy_per_atom": -0.44162445007145507,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00291",
+    "formula": "X291",
+    "formation_energy_per_atom": -0.4986001869317666,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00292",
+    "formula": "X292",
+    "formation_energy_per_atom": -0.5178729513888424,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00293",
+    "formula": "X293",
+    "formation_energy_per_atom": -0.23007958059579509,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00294",
+    "formula": "X294",
+    "formation_energy_per_atom": -0.32859690280699055,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00295",
+    "formula": "X295",
+    "formation_energy_per_atom": -0.5385819190521308,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00296",
+    "formula": "X296",
+    "formation_energy_per_atom": -0.22008002491334988,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00297",
+    "formula": "X297",
+    "formation_energy_per_atom": -0.33854009582467814,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00298",
+    "formula": "X298",
+    "formation_energy_per_atom": -0.237427576232208,
+    "structure": {}
+  },
+  {
+    "material_id": "mp-00299",
+    "formula": "X299",
+    "formation_energy_per_atom": -0.27407423161527755,
+    "structure": {}
+  }
+]

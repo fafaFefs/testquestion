@@ -1,0 +1,92 @@
+[
+  {
+    "formula": "H25U25",
+    "properties": {
+      "dg_h": 0.018807005137205124,
+      "thermodynamic_stability": -3.9843757152557373,
+      "kinetic_stability": 6.308102130889893,
+      "synthesizability": 0.9248560667037964
+    }
+  },
+  {
+    "formula": "H20U30",
+    "properties": {
+      "dg_h": 0.023956086486577988,
+      "thermodynamic_stability": -3.2260959148406982,
+      "kinetic_stability": 5.138319969177246,
+      "synthesizability": 0.8888658881187439
+    }
+  },
+  {
+    "formula": "H26U24",
+    "properties": {
+      "dg_h": 0.0042151473462581635,
+      "thermodynamic_stability": -3.014181613922119,
+      "kinetic_stability": 4.797335624694824,
+      "synthesizability": 0.8755643963813782
+    }
+  },
+  {
+    "formula": "H26U24",
+    "properties": {
+      "dg_h": 0.018165674060583115,
+      "thermodynamic_stability": -3.0829806327819824,
+      "kinetic_stability": 4.850856304168701,
+      "synthesizability": 0.882567286491394
+    }
+  },
+  {
+    "formula": "AcH25U24",
+    "properties": {
+      "dg_h": 0.03565869852900505,
+      "thermodynamic_stability": -2.9968225955963135,
+      "kinetic_stability": 4.732080459594727,
+      "synthesizability": 0.8834298253059387
+    }
+  },
+  {
+    "formula": "H26U24",
+    "properties": {
+      "dg_h": 0.0038889609277248383,
+      "thermodynamic_stability": -2.5021626949310303,
+      "kinetic_stability": 4.143336772918701,
+      "synthesizability": 0.8237577080726624
+    }
+  },
+  {
+    "formula": "H18U32",
+    "properties": {
+      "dg_h": 0.011086937040090561,
+      "thermodynamic_stability": -2.5742976665496826,
+      "kinetic_stability": 4.191310405731201,
+      "synthesizability": 0.8419544100761414
+    }
+  },
+  {
+    "formula": "H17U33",
+    "properties": {
+      "dg_h": 0.015172895044088364,
+      "thermodynamic_stability": -2.534180164337158,
+      "kinetic_stability": 4.147322654724121,
+      "synthesizability": 0.8367502689361572
+    }
+  },
+  {
+    "formula": "H23NeU26",
+    "properties": {
+      "dg_h": 0.01908622309565544,
+      "thermodynamic_stability": -2.568838119506836,
+      "kinetic_stability": 4.179029941558838,
+      "synthesizability": 0.8384836316108704
+    }
+  },
+  {
+    "formula": "H18U32",
+    "properties": {
+      "dg_h": 0.008586045354604721,
+      "thermodynamic_stability": -2.642702341079712,
+      "kinetic_stability": 4.226492881774902,
+      "synthesizability": 0.8333454728126526
+    }
+  }
+]

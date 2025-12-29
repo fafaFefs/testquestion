@@ -1,0 +1,1802 @@
+[
+  {
+    "uid": "her_0000",
+    "formula": "MoS2",
+    "dg_h": 0.08,
+    "formation_energy_per_atom": -0.6,
+    "synthesizability": 0.95,
+    "kinetic_stability": 1.3490142459033698,
+    "source": "literature"
+  },
+  {
+    "uid": "her_0001",
+    "formula": "WS2",
+    "dg_h": 0.12,
+    "formation_energy_per_atom": -0.5,
+    "synthesizability": 0.9,
+    "kinetic_stability": 1.1585207096486445,
+    "source": "literature"
+  },
+  {
+    "uid": "her_0002",
+    "formula": "MoSe2",
+    "dg_h": 0.15,
+    "formation_energy_per_atom": -0.55,
+    "synthesizability": 0.85,
+    "kinetic_stability": 1.3943065614302077,
+    "source": "literature"
+  },
+  {
+    "uid": "her_0003",
+    "formula": "WSe2",
+    "dg_h": 0.18,
+    "formation_energy_per_atom": -0.48,
+    "synthesizability": 0.8,
+    "kinetic_stability": 1.6569089569224076,
+    "source": "literature"
+  },
+  {
+    "uid": "her_0004",
+    "formula": "Pt",
+    "dg_h": -0.09,
+    "formation_energy_per_atom": 0.0,
+    "synthesizability": 0.99,
+    "kinetic_stability": 1.1297539875829992,
+    "source": "literature"
+  },
+  {
+    "uid": "her_0005",
+    "formula": "Ni2P",
+    "dg_h": 0.05,
+    "formation_energy_per_atom": -0.3,
+    "synthesizability": 0.75,
+    "kinetic_stability": 1.1297589129152459,
+    "source": "literature"
+  },
+  {
+    "uid": "her_0006",
+    "formula": "CoP",
+    "dg_h": 0.1,
+    "formation_energy_per_atom": -0.35,
+    "synthesizability": 0.7,
+    "kinetic_stability": 1.6737638446522174,
+    "source": "literature"
+  },
+  {
+    "uid": "her_0007",
+    "formula": "FeP",
+    "dg_h": 0.15,
+    "formation_energy_per_atom": -0.32,
+    "synthesizability": 0.65,
+    "kinetic_stability": 1.4302304187458725,
+    "source": "literature"
+  },
+  {
+    "uid": "her_0008",
+    "formula": "Ni2P_var_8",
+    "dg_h": 0.057983181221570465,
+    "formation_energy_per_atom": -0.3159516501657075,
+    "synthesizability": 0.7522221826611983,
+    "kinetic_stability": 0.8716621259189964,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0009",
+    "formula": "CoP_var_9",
+    "dg_h": 0.057195393582376554,
+    "formation_energy_per_atom": -0.42424068371191725,
+    "synthesizability": 0.6296656198292592,
+    "kinetic_stability": 0.35811380317712815,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0010",
+    "formula": "CoP_var_10",
+    "dg_h": -0.047632969315460155,
+    "formation_energy_per_atom": -0.20130190419527993,
+    "synthesizability": 0.6975544822505934,
+    "kinetic_stability": 1.1066653951367296,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0011",
+    "formula": "Pt_var_11",
+    "dg_h": -0.2050993577422303,
+    "formation_energy_per_atom": 0.0375698018345672,
+    "synthesizability": 0.9299361310081194,
+    "kinetic_stability": 0.912491875062017,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0012",
+    "formula": "WSe2_var_12",
+    "dg_h": 0.25791926345150046,
+    "formation_energy_per_atom": -0.5901097756349833,
+    "synthesizability": 0.9130228193897038,
+    "kinetic_stability": 1.1119356744188256,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0013",
+    "formula": "MoSe2_var_13",
+    "dg_h": 0.12705495461680433,
+    "formation_energy_per_atom": -0.5110651086743877,
+    "synthesizability": 0.7234880886077357,
+    "kinetic_stability": 1.3275976793073014,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0014",
+    "formula": "Ni2P_var_14",
+    "dg_h": 0.08229997972782976,
+    "formation_energy_per_atom": -0.43934169408727036,
+    "synthesizability": 0.5321665753176291,
+    "kinetic_stability": 0.6868310775295495,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0015",
+    "formula": "WSe2_var_15",
+    "dg_h": 0.25384665799954104,
+    "formation_energy_per_atom": -0.46286317188100295,
+    "synthesizability": 0.788435171761176,
+    "kinetic_stability": 0.9096688913232134,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0016",
+    "formula": "FeP_var_16",
+    "dg_h": 0.176348604023021,
+    "formation_energy_per_atom": -0.1558228883985924,
+    "synthesizability": 0.6960816300148638,
+    "kinetic_stability": 1.0257770414892444,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0017",
+    "formula": "WSe2_var_17",
+    "dg_h": 0.0669447695318433,
+    "formation_energy_per_atom": -0.46655711173719777,
+    "synthesizability": 0.858212279471304,
+    "kinetic_stability": 1.266324537878007,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0018",
+    "formula": "MoSe2_var_18",
+    "dg_h": 0.1976042587426972,
+    "formation_energy_per_atom": -0.41963387316014167,
+    "synthesizability": 0.8711587012326016,
+    "kinetic_stability": 1.1791133938537226,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0019",
+    "formula": "WSe2_var_19",
+    "dg_h": 0.2131263431403564,
+    "formation_energy_per_atom": -0.38244548728776406,
+    "synthesizability": 0.752082576215471,
+    "kinetic_stability": 0.9443023070008548,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0020",
+    "formula": "CoP_var_20",
+    "dg_h": 0.2212172342133126,
+    "formation_energy_per_atom": -0.22665031954569426,
+    "synthesizability": 0.5425844713055945,
+    "kinetic_stability": 1.191385882967467,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0021",
+    "formula": "MoSe2_var_21",
+    "dg_h": 0.04621701234845178,
+    "formation_energy_per_atom": -0.5575803745028186,
+    "synthesizability": 0.9472963533755787,
+    "kinetic_stability": 1.2386786391687825,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0022",
+    "formula": "WS2_var_22",
+    "dg_h": 0.042029811934012146,
+    "formation_energy_per_atom": -0.5843896360343925,
+    "synthesizability": 0.8849466141740218,
+    "kinetic_stability": 0.7103326984315076,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0023",
+    "formula": "MoSe2_var_23",
+    "dg_h": 0.15870470682381713,
+    "formation_energy_per_atom": -0.5799007350465868,
+    "synthesizability": 0.8591760776535502,
+    "kinetic_stability": 0.4037293256197322,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0024",
+    "formula": "Ni2P_var_24",
+    "dg_h": 0.07976504485083472,
+    "formation_energy_per_atom": -0.4028115770587538,
+    "synthesizability": 0.6081403536984442,
+    "kinetic_stability": 1.0571010954895501,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0025",
+    "formula": "Pt_var_25",
+    "dg_h": -0.11121614217116266,
+    "formation_energy_per_atom": -0.04268687940397228,
+    "synthesizability": 1.0,
+    "kinetic_stability": 1.3474559958796082,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0026",
+    "formula": "Ni2P_var_26",
+    "dg_h": -0.09824242468589132,
+    "formation_energy_per_atom": -0.3228847516239016,
+    "synthesizability": 0.8462641289999702,
+    "kinetic_stability": 0.9370922689489006,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0027",
+    "formula": "FeP_var_27",
+    "dg_h": 0.07979469061226475,
+    "formation_energy_per_atom": -0.3527662146597768,
+    "synthesizability": 0.6107891846867842,
+    "kinetic_stability": 0.5609455155603644,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0028",
+    "formula": "WSe2_var_28",
+    "dg_h": 0.045061002676699075,
+    "formation_energy_per_atom": -0.581907278536807,
+    "synthesizability": 0.8127012239371799,
+    "kinetic_stability": 0.625166883160022,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0029",
+    "formula": "Ni2P_var_29",
+    "dg_h": 0.010448354841970674,
+    "formation_energy_per_atom": -0.3289136856469942,
+    "synthesizability": 0.795293632653351,
+    "kinetic_stability": 0.9501817274946804,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0030",
+    "formula": "Ni2P_var_30",
+    "dg_h": 0.08013228009496344,
+    "formation_energy_per_atom": -0.44585169209867576,
+    "synthesizability": 0.6837261686621786,
+    "kinetic_stability": 0.9560581579775151,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0031",
+    "formula": "WS2_var_31",
+    "dg_h": -0.07187712152990416,
+    "formation_energy_per_atom": -0.5026513875449217,
+    "synthesizability": 0.9060230209941027,
+    "kinetic_stability": 1.7389726337455857,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0032",
+    "formula": "Ni2P_var_32",
+    "dg_h": 0.041991266464751084,
+    "formation_energy_per_atom": -0.32413801316442126,
+    "synthesizability": 0.893351548728992,
+    "kinetic_stability": 1.3197381125647913,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0033",
+    "formula": "Pt_var_33",
+    "dg_h": -0.05601790358133562,
+    "formation_energy_per_atom": -0.0007380149944573007,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.6550622267516925,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0034",
+    "formula": "MoSe2_var_34",
+    "dg_h": 0.017812304936656087,
+    "formation_energy_per_atom": -0.6168246699132413,
+    "synthesizability": 0.8362708996320729,
+    "kinetic_stability": 1.4203964694080873,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0035",
+    "formula": "WS2_var_35",
+    "dg_h": 0.17868570938002704,
+    "formation_energy_per_atom": -0.28095443741900217,
+    "synthesizability": 0.8009463674869312,
+    "kinetic_stability": 0.8301106811191684,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0036",
+    "formula": "Pt_var_36",
+    "dg_h": -0.1316456363551375,
+    "formation_energy_per_atom": 0.08575032515881126,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.7145584748055881,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0037",
+    "formula": "CoP_var_37",
+    "dg_h": 0.16490867326291064,
+    "formation_energy_per_atom": -0.47228735366753066,
+    "synthesizability": 0.7536336032382065,
+    "kinetic_stability": 0.7255927206216168,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0038",
+    "formula": "FeP_var_38",
+    "dg_h": 0.2748940699139911,
+    "formation_energy_per_atom": -0.31343508418887756,
+    "synthesizability": 0.7669207646952623,
+    "kinetic_stability": 1.261995090726828,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0039",
+    "formula": "WS2_var_39",
+    "dg_h": 0.20135172173696697,
+    "formation_energy_per_atom": -0.6230864316433955,
+    "synthesizability": 0.922745993460413,
+    "kinetic_stability": 1.3921428262847284,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0040",
+    "formula": "WSe2_var_40",
+    "dg_h": 0.18628245997331824,
+    "formation_energy_per_atom": -0.42984036346538274,
+    "synthesizability": 0.7853054607079628,
+    "kinetic_stability": 1.054186892122066,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0041",
+    "formula": "MoS2_var_41",
+    "dg_h": 0.20993968142644875,
+    "formation_energy_per_atom": -0.6867146156049553,
+    "synthesizability": 1.0,
+    "kinetic_stability": 1.365121239094033,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0042",
+    "formula": "MoSe2_var_42",
+    "dg_h": 0.23539977864949013,
+    "formation_energy_per_atom": -0.3711406142674538,
+    "synthesizability": 0.9066894070787087,
+    "kinetic_stability": 0.9506498697514286,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0043",
+    "formula": "MoS2_var_43",
+    "dg_h": 0.26657745111447567,
+    "formation_energy_per_atom": -0.5526167079088212,
+    "synthesizability": 0.830869650279735,
+    "kinetic_stability": 1.196966082590149,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0044",
+    "formula": "MoS2_var_44",
+    "dg_h": 0.07951430553489701,
+    "formation_energy_per_atom": -0.6383323306265903,
+    "synthesizability": 0.9037473139798248,
+    "kinetic_stability": 0.6662507937011656,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0045",
+    "formula": "FeP_var_45",
+    "dg_h": 0.19244862440564506,
+    "formation_energy_per_atom": -0.22594644150379906,
+    "synthesizability": 0.5632358910020625,
+    "kinetic_stability": 1.0437585557284927,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0046",
+    "formula": "MoSe2_var_46",
+    "dg_h": 0.018142983924188727,
+    "formation_energy_per_atom": -0.47796127579618036,
+    "synthesizability": 0.8815890907152315,
+    "kinetic_stability": 1.0177843852159587,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0047",
+    "formula": "MoSe2_var_47",
+    "dg_h": 0.1776690799330019,
+    "formation_energy_per_atom": -0.4672816750963977,
+    "synthesizability": 0.8513001891877907,
+    "kinetic_stability": 1.436060223147195,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0048",
+    "formula": "WSe2_var_48",
+    "dg_h": 0.2650120582123857,
+    "formation_energy_per_atom": -0.440566004853517,
+    "synthesizability": 0.7995304005326441,
+    "kinetic_stability": 0.5287564049417155,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0049",
+    "formula": "WSe2_var_49",
+    "dg_h": 0.1841980064470023,
+    "formation_energy_per_atom": -0.4937271817097816,
+    "synthesizability": 0.7875867611118341,
+    "kinetic_stability": 1.2221022453843216,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0050",
+    "formula": "Pt_var_50",
+    "dg_h": -0.056360123621374755,
+    "formation_energy_per_atom": 0.005062981091516631,
+    "synthesizability": 0.9682543023095975,
+    "kinetic_stability": 0.8574227954798572,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0051",
+    "formula": "FeP_var_51",
+    "dg_h": 0.10534850479329788,
+    "formation_energy_per_atom": -0.23436012056765276,
+    "synthesizability": 0.6714093744130204,
+    "kinetic_stability": 0.6262783663864036,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0052",
+    "formula": "CoP_var_52",
+    "dg_h": -0.014771997282500005,
+    "formation_energy_per_atom": -0.21103971718534087,
+    "synthesizability": 0.6144759481120189,
+    "kinetic_stability": 0.691881472319321,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0053",
+    "formula": "WS2_var_53",
+    "dg_h": 0.2072447157660453,
+    "formation_energy_per_atom": -0.39338014559022616,
+    "synthesizability": 0.8040991903573221,
+    "kinetic_stability": 1.414601381251583,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0054",
+    "formula": "Pt_var_54",
+    "dg_h": -0.15669433749565126,
+    "formation_energy_per_atom": -0.1691818256250303,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.5692297541877904,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0055",
+    "formula": "WSe2_var_55",
+    "dg_h": 0.2315047686306048,
+    "formation_energy_per_atom": -0.09472685093452782,
+    "synthesizability": 0.8570890510693168,
+    "kinetic_stability": 1.3406696920541796,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0056",
+    "formula": "FeP_var_56",
+    "dg_h": 0.09440551022253825,
+    "formation_energy_per_atom": -0.3327734828463886,
+    "synthesizability": 0.4939442927562731,
+    "kinetic_stability": 1.6001044267318312,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0057",
+    "formula": "CoP_var_57",
+    "dg_h": 0.09603638579603808,
+    "formation_energy_per_atom": -0.40346627418500636,
+    "synthesizability": 0.5211503495019503,
+    "kinetic_stability": 1.1071913625809902,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0058",
+    "formula": "WS2_var_58",
+    "dg_h": 0.07872383868098934,
+    "formation_energy_per_atom": -0.4404356348195679,
+    "synthesizability": 0.7008462213468586,
+    "kinetic_stability": 1.1278077600502006,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0059",
+    "formula": "FeP_var_59",
+    "dg_h": 0.07846962907400316,
+    "formation_energy_per_atom": -0.2520402251065324,
+    "synthesizability": 0.5769633368282864,
+    "kinetic_stability": 1.0649375768745926,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0060",
+    "formula": "Pt_var_60",
+    "dg_h": -0.12745215590904696,
+    "formation_energy_per_atom": -0.1291216113136183,
+    "synthesizability": 0.9134490634192661,
+    "kinetic_stability": 1.1266941284992193,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0061",
+    "formula": "FeP_var_61",
+    "dg_h": 0.15151432782598642,
+    "formation_energy_per_atom": -0.27579259831332686,
+    "synthesizability": 0.7548019743994953,
+    "kinetic_stability": 0.8114290757572881,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0062",
+    "formula": "CoP_var_62",
+    "dg_h": 0.25929817942594646,
+    "formation_energy_per_atom": -0.3933941599010051,
+    "synthesizability": 0.6267307798696156,
+    "kinetic_stability": 0.8265169258107588,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0063",
+    "formula": "Ni2P_var_63",
+    "dg_h": 0.10049872789804572,
+    "formation_energy_per_atom": -0.21342448058298785,
+    "synthesizability": 0.6299703592944224,
+    "kinetic_stability": 0.8996496292477155,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0064",
+    "formula": "MoS2_var_64",
+    "dg_h": -0.07488286798240922,
+    "formation_energy_per_atom": -0.6343129064104098,
+    "synthesizability": 0.9683855514409558,
+    "kinetic_stability": 1.1733691405296505,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0065",
+    "formula": "Pt_var_65",
+    "dg_h": -0.052270373453959074,
+    "formation_energy_per_atom": 0.165135098647949,
+    "synthesizability": 0.8573168233864102,
+    "kinetic_stability": 1.5531147393255538,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0066",
+    "formula": "WSe2_var_66",
+    "dg_h": 0.06164268320554621,
+    "formation_energy_per_atom": -0.4571029567769562,
+    "synthesizability": 0.7660613706821804,
+    "kinetic_stability": 0.755418719043423,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0067",
+    "formula": "WSe2_var_67",
+    "dg_h": 0.22438194281462284,
+    "formation_energy_per_atom": -0.4025365946570663,
+    "synthesizability": 0.7073069528421918,
+    "kinetic_stability": 0.98214239318146,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0068",
+    "formula": "FeP_var_68",
+    "dg_h": 0.09507470926356981,
+    "formation_energy_per_atom": -0.2103203745558596,
+    "synthesizability": 0.8613112156958203,
+    "kinetic_stability": 0.8504780131880663,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0069",
+    "formula": "WS2_var_69",
+    "dg_h": 0.27430676518590835,
+    "formation_energy_per_atom": -0.3676736192848763,
+    "synthesizability": 0.8871587853460292,
+    "kinetic_stability": 0.860300568623636,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0070",
+    "formula": "WS2_var_70",
+    "dg_h": 0.12018136111946762,
+    "formation_energy_per_atom": -0.42440647182083474,
+    "synthesizability": 1.0,
+    "kinetic_stability": 1.1241624511752422,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0071",
+    "formula": "FeP_var_71",
+    "dg_h": 0.169905969557347,
+    "formation_energy_per_atom": -0.38002168771587946,
+    "synthesizability": 0.656980208499002,
+    "kinetic_stability": 0.884405920941472,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0072",
+    "formula": "MoSe2_var_72",
+    "dg_h": 0.21078385403348046,
+    "formation_energy_per_atom": -0.4467487207172119,
+    "synthesizability": 0.7465597643514315,
+    "kinetic_stability": 1.0612848826003987,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0073",
+    "formula": "Pt_var_73",
+    "dg_h": -0.0213151487234029,
+    "formation_energy_per_atom": 0.007097241563974602,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.9674506334309461,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0074",
+    "formula": "WS2_var_74",
+    "dg_h": 0.0531025172683315,
+    "formation_energy_per_atom": -0.5868084225404487,
+    "synthesizability": 0.8454962384652909,
+    "kinetic_stability": 0.6197853095462995,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0075",
+    "formula": "Pt_var_75",
+    "dg_h": -0.06190081322649673,
+    "formation_energy_per_atom": -0.06226995198205938,
+    "synthesizability": 0.9691877749642724,
+    "kinetic_stability": 0.8520997196023501,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0076",
+    "formula": "WS2_var_76",
+    "dg_h": 0.007504826216714278,
+    "formation_energy_per_atom": -0.3718079619685798,
+    "synthesizability": 0.8971578542400933,
+    "kinetic_stability": 0.48507266621680856,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0077",
+    "formula": "WS2_var_77",
+    "dg_h": 0.21520110938466946,
+    "formation_energy_per_atom": -0.3547449752537629,
+    "synthesizability": 0.9362013911942471,
+    "kinetic_stability": 1.1743942402107173,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0078",
+    "formula": "Pt_var_78",
+    "dg_h": -0.08492560411447336,
+    "formation_energy_per_atom": 0.04945998918817143,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.4376593375421465,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0079",
+    "formula": "MoSe2_var_79",
+    "dg_h": 0.14790984060358517,
+    "formation_energy_per_atom": -0.5382672616691219,
+    "synthesizability": 0.9777664895788425,
+    "kinetic_stability": 0.822528583349251,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0080",
+    "formula": "FeP_var_80",
+    "dg_h": 0.16804925054995476,
+    "formation_energy_per_atom": -0.21289584758824912,
+    "synthesizability": 0.7264478235325711,
+    "kinetic_stability": 0.6666508561767708,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0081",
+    "formula": "CoP_var_81",
+    "dg_h": 0.059208464722870426,
+    "formation_energy_per_atom": -0.32383769440275334,
+    "synthesizability": 0.7012146509073225,
+    "kinetic_stability": 1.2792802251922237,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0082",
+    "formula": "FeP_var_82",
+    "dg_h": -0.00449989485969976,
+    "formation_energy_per_atom": -0.40427350964869224,
+    "synthesizability": 0.6892041889732596,
+    "kinetic_stability": 0.9626424257218947,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0083",
+    "formula": "CoP_var_83",
+    "dg_h": 0.10969959649927183,
+    "formation_energy_per_atom": -0.2904842974563086,
+    "synthesizability": 0.6181779316766527,
+    "kinetic_stability": 1.6277161827056381,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0084",
+    "formula": "MoSe2_var_84",
+    "dg_h": 0.26235417816915163,
+    "formation_energy_per_atom": -0.33567948118861135,
+    "synthesizability": 0.8157411131769353,
+    "kinetic_stability": 1.0747943624865866,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0085",
+    "formula": "Pt_var_85",
+    "dg_h": -0.15991465780919173,
+    "formation_energy_per_atom": -0.0008817046245807649,
+    "synthesizability": 0.780998225136972,
+    "kinetic_stability": 1.5311294549700154,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0086",
+    "formula": "CoP_var_86",
+    "dg_h": 0.28136665758789076,
+    "formation_energy_per_atom": -0.3095417104882475,
+    "synthesizability": 0.709007258698166,
+    "kinetic_stability": 1.0248191307401437,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0087",
+    "formula": "Ni2P_var_87",
+    "dg_h": 0.07449665711087228,
+    "formation_energy_per_atom": -0.350694317537113,
+    "synthesizability": 0.7028961694381677,
+    "kinetic_stability": 1.0696149812072908,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0088",
+    "formula": "Pt_var_88",
+    "dg_h": -0.04544930987186156,
+    "formation_energy_per_atom": -0.1461756656035722,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.9438325130953558,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0089",
+    "formula": "Pt_var_89",
+    "dg_h": -0.1564227443304423,
+    "formation_energy_per_atom": 0.13601113662481715,
+    "synthesizability": 0.7862924065027861,
+    "kinetic_stability": 1.4710096841628015,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0090",
+    "formula": "WS2_var_90",
+    "dg_h": 0.047566620465290047,
+    "formation_energy_per_atom": -0.6875778638563943,
+    "synthesizability": 0.8425798551192321,
+    "kinetic_stability": 0.5524077023623453,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0091",
+    "formula": "Ni2P_var_91",
+    "dg_h": 0.08227185603380896,
+    "formation_energy_per_atom": -0.3827230943552323,
+    "synthesizability": 0.8019346514241172,
+    "kinetic_stability": 1.4598216739007732,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0092",
+    "formula": "Ni2P_var_92",
+    "dg_h": -0.004925818154107052,
+    "formation_energy_per_atom": -0.5459193362078548,
+    "synthesizability": 0.7557412947756371,
+    "kinetic_stability": 0.746767680277376,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0093",
+    "formula": "Pt_var_93",
+    "dg_h": -0.08303473354811208,
+    "formation_energy_per_atom": 0.09835043063584652,
+    "synthesizability": 1.0,
+    "kinetic_stability": 1.0163051733815713,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0094",
+    "formula": "WS2_var_94",
+    "dg_h": 0.07281224758821306,
+    "formation_energy_per_atom": -0.5556181145801988,
+    "synthesizability": 0.8102763668638695,
+    "kinetic_stability": 1.4577489871752494,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0095",
+    "formula": "CoP_var_95",
+    "dg_h": 0.31898029332176725,
+    "formation_energy_per_atom": -0.4308298285355151,
+    "synthesizability": 0.6160278157819223,
+    "kinetic_stability": 0.8201822063667934,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0096",
+    "formula": "WS2_var_96",
+    "dg_h": -0.01524505549099972,
+    "formation_energy_per_atom": -0.555842036943276,
+    "synthesizability": 0.8201764781968467,
+    "kinetic_stability": 0.5986465528574865,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0097",
+    "formula": "WSe2_var_97",
+    "dg_h": -0.011270651706421914,
+    "formation_energy_per_atom": -0.4437523541194698,
+    "synthesizability": 0.8571347510326789,
+    "kinetic_stability": 1.2911571460039633,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0098",
+    "formula": "Pt_var_98",
+    "dg_h": -0.10227887491575147,
+    "formation_energy_per_atom": 0.06488932412535497,
+    "synthesizability": 1.0,
+    "kinetic_stability": 1.0453239886458185,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0099",
+    "formula": "WS2_var_99",
+    "dg_h": 0.2379440120721287,
+    "formation_energy_per_atom": -0.5469175652104705,
+    "synthesizability": 0.7286865470909123,
+    "kinetic_stability": 1.4061617122496237,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0100",
+    "formula": "Ni2P_var_100",
+    "dg_h": 0.0758666912010217,
+    "formation_energy_per_atom": -0.17674857882637487,
+    "synthesizability": 0.7718683092276141,
+    "kinetic_stability": 0.8546872924092089,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0101",
+    "formula": "Pt_var_101",
+    "dg_h": 0.06162333229338965,
+    "formation_energy_per_atom": 0.031245848109794746,
+    "synthesizability": 0.958697629178356,
+    "kinetic_stability": 0.5202629582387552,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0102",
+    "formula": "Ni2P_var_102",
+    "dg_h": -0.03485206993879135,
+    "formation_energy_per_atom": -0.3936245028277956,
+    "synthesizability": 0.7833173294839825,
+    "kinetic_stability": 0.9226293506369371,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0103",
+    "formula": "FeP_var_103",
+    "dg_h": -0.0034114170735622396,
+    "formation_energy_per_atom": -0.1922323178101491,
+    "synthesizability": 0.6832314011979592,
+    "kinetic_stability": 0.7754540390330339,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0104",
+    "formula": "WS2_var_104",
+    "dg_h": 0.24754632486536202,
+    "formation_energy_per_atom": -0.5091566060649837,
+    "synthesizability": 0.9937072520315179,
+    "kinetic_stability": 0.8292021608353667,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0105",
+    "formula": "WSe2_var_105",
+    "dg_h": 0.2826579846552078,
+    "formation_energy_per_atom": -0.4633911867491849,
+    "synthesizability": 0.6979616752737845,
+    "kinetic_stability": 0.9192716686213149,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0106",
+    "formula": "CoP_var_106",
+    "dg_h": 0.2396793578770243,
+    "formation_energy_per_atom": -0.38899103910097776,
+    "synthesizability": 0.8149623078833081,
+    "kinetic_stability": 1.1575635138072842,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0107",
+    "formula": "CoP_var_107",
+    "dg_h": 0.2058424486849588,
+    "formation_energy_per_atom": -0.5258739486423114,
+    "synthesizability": 0.5816741487334225,
+    "kinetic_stability": 0.3882303466719699,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0108",
+    "formula": "CoP_var_108",
+    "dg_h": 0.13601690021355153,
+    "formation_energy_per_atom": -0.17814006259863135,
+    "synthesizability": 0.7866070516042798,
+    "kinetic_stability": 0.9689271700295129,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0109",
+    "formula": "Ni2P_var_109",
+    "dg_h": 0.14815473767300813,
+    "formation_energy_per_atom": -0.2669299442936068,
+    "synthesizability": 0.7485281741365063,
+    "kinetic_stability": 1.238921628908898,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0110",
+    "formula": "WSe2_var_110",
+    "dg_h": 0.027683912952823908,
+    "formation_energy_per_atom": -0.35940847927574143,
+    "synthesizability": 0.8375588067991646,
+    "kinetic_stability": 0.5885231860830629,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0111",
+    "formula": "MoSe2_var_111",
+    "dg_h": 0.18665982460968483,
+    "formation_energy_per_atom": -0.6439879786327356,
+    "synthesizability": 0.7986133082663306,
+    "kinetic_stability": 0.6822359434333145,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0112",
+    "formula": "MoSe2_var_112",
+    "dg_h": 0.15437026680842736,
+    "formation_energy_per_atom": -0.4426317987901248,
+    "synthesizability": 0.8576048039896385,
+    "kinetic_stability": 1.1058879926616705,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0113",
+    "formula": "MoSe2_var_113",
+    "dg_h": 0.06845009267115112,
+    "formation_energy_per_atom": -0.6059025493233857,
+    "synthesizability": 0.7065911130767476,
+    "kinetic_stability": 0.9425401528260121,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0114",
+    "formula": "WS2_var_114",
+    "dg_h": 0.0825338671643856,
+    "formation_energy_per_atom": -0.581867698531858,
+    "synthesizability": 0.8374761816446443,
+    "kinetic_stability": 0.9179170769488094,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0115",
+    "formula": "CoP_var_115",
+    "dg_h": 0.03002744920074145,
+    "formation_energy_per_atom": -0.32860200892657776,
+    "synthesizability": 0.688767195030917,
+    "kinetic_stability": 0.9337091201400332,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0116",
+    "formula": "MoS2_var_116",
+    "dg_h": 0.098150697762731,
+    "formation_energy_per_atom": -0.6775231793667688,
+    "synthesizability": 0.9523751481997746,
+    "kinetic_stability": 1.0946907930043717,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0117",
+    "formula": "FeP_var_117",
+    "dg_h": 0.38741417434005965,
+    "formation_energy_per_atom": -0.3510724264617194,
+    "synthesizability": 0.5873475817311457,
+    "kinetic_stability": 0.34236098312740637,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0118",
+    "formula": "Pt_var_118",
+    "dg_h": -0.049978102959296215,
+    "formation_energy_per_atom": -0.07845118938133025,
+    "synthesizability": 1.0,
+    "kinetic_stability": 1.1953195170010913,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0119",
+    "formula": "WSe2_var_119",
+    "dg_h": 0.16720824085192335,
+    "formation_energy_per_atom": -0.5755540440600426,
+    "synthesizability": 0.6393553679742427,
+    "kinetic_stability": 1.061039090760167,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0120",
+    "formula": "MoS2_var_120",
+    "dg_h": 0.0028913459495560068,
+    "formation_energy_per_atom": -0.5423825400528899,
+    "synthesizability": 1.0,
+    "kinetic_stability": 1.0670008476089066,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0121",
+    "formula": "Ni2P_var_121",
+    "dg_h": -0.027322497045282307,
+    "formation_energy_per_atom": -0.3350789245172869,
+    "synthesizability": 0.7718222732531096,
+    "kinetic_stability": 1.273169236711324,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0122",
+    "formula": "WSe2_var_122",
+    "dg_h": 0.31430988181077296,
+    "formation_energy_per_atom": -0.6107657068183757,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.8127949813334264,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0123",
+    "formula": "Ni2P_var_123",
+    "dg_h": 0.20231240772696574,
+    "formation_energy_per_atom": -0.24610899563153413,
+    "synthesizability": 0.6462753845673543,
+    "kinetic_stability": 0.9428983965749176,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0124",
+    "formula": "MoS2_var_124",
+    "dg_h": 0.15114542651948268,
+    "formation_energy_per_atom": -0.6289377947132692,
+    "synthesizability": 0.8084797480482484,
+    "kinetic_stability": 1.1786203407131268,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0125",
+    "formula": "MoSe2_var_125",
+    "dg_h": 0.15276909316162127,
+    "formation_energy_per_atom": -0.5372634521462845,
+    "synthesizability": 0.8138577160573023,
+    "kinetic_stability": 0.9284519897847825,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0126",
+    "formula": "Ni2P_var_126",
+    "dg_h": 0.02937610410441335,
+    "formation_energy_per_atom": -0.5277950417810557,
+    "synthesizability": 0.8297484204478315,
+    "kinetic_stability": 1.0435612180856375,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0127",
+    "formula": "CoP_var_127",
+    "dg_h": 0.042322866943166726,
+    "formation_energy_per_atom": -0.27446087741742436,
+    "synthesizability": 0.7500917187624381,
+    "kinetic_stability": 0.7067334265604347,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0128",
+    "formula": "MoS2_var_128",
+    "dg_h": 0.10859801661882838,
+    "formation_energy_per_atom": -0.4216887164624943,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.9742710492301498,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0129",
+    "formula": "Pt_var_129",
+    "dg_h": -0.1464557003269575,
+    "formation_energy_per_atom": -0.10020467236287343,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.1777135466620895,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0130",
+    "formula": "MoS2_var_130",
+    "dg_h": 0.2646980331447603,
+    "formation_energy_per_atom": -0.5734044730645568,
+    "synthesizability": 0.9286527363092666,
+    "kinetic_stability": 1.0415523887165326,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0131",
+    "formula": "Ni2P_var_131",
+    "dg_h": 0.04339202013526834,
+    "formation_energy_per_atom": -0.4211016199762457,
+    "synthesizability": 0.684816389219784,
+    "kinetic_stability": 1.0142196013949243,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0132",
+    "formula": "WS2_var_132",
+    "dg_h": 0.32670440017513797,
+    "formation_energy_per_atom": -0.694493929037075,
+    "synthesizability": 0.7599784448986464,
+    "kinetic_stability": 1.068898739269942,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0133",
+    "formula": "FeP_var_133",
+    "dg_h": 0.08980313211036153,
+    "formation_energy_per_atom": -0.24397489053646398,
+    "synthesizability": 0.7606329104828443,
+    "kinetic_stability": 1.2314914447904008,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0134",
+    "formula": "MoSe2_var_134",
+    "dg_h": 0.3889878272218324,
+    "formation_energy_per_atom": -0.6104414478131712,
+    "synthesizability": 0.8286792873094836,
+    "kinetic_stability": 1.0478600217192167,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0135",
+    "formula": "Pt_var_135",
+    "dg_h": -0.05288541266286911,
+    "formation_energy_per_atom": -0.06039851867158206,
+    "synthesizability": 0.9986589787472899,
+    "kinetic_stability": 0.9532968293823761,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0136",
+    "formula": "Ni2P_var_136",
+    "dg_h": 0.1031916892218846,
+    "formation_energy_per_atom": -0.23036488733475124,
+    "synthesizability": 0.801612472857769,
+    "kinetic_stability": 1.1426480924347522,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0137",
+    "formula": "Pt_var_137",
+    "dg_h": -0.03565168470362223,
+    "formation_energy_per_atom": 0.10349209270805991,
+    "synthesizability": 0.7691893448326123,
+    "kinetic_stability": 1.1082335274020285,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0138",
+    "formula": "Pt_var_138",
+    "dg_h": 0.08092924947296218,
+    "formation_energy_per_atom": 0.08249001861287342,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.8804879829469154,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0139",
+    "formula": "FeP_var_139",
+    "dg_h": -0.03707919210258559,
+    "formation_energy_per_atom": -0.3551513484041309,
+    "synthesizability": 0.6518418379189552,
+    "kinetic_stability": 1.5029311936825849,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0140",
+    "formula": "MoS2_var_140",
+    "dg_h": -0.04105011590693684,
+    "formation_energy_per_atom": -0.7613410655550792,
+    "synthesizability": 0.8752892111059737,
+    "kinetic_stability": 1.016475789595677,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0141",
+    "formula": "FeP_var_141",
+    "dg_h": 0.061518405808201504,
+    "formation_energy_per_atom": -0.29130587387757023,
+    "synthesizability": 0.6665194380120577,
+    "kinetic_stability": 1.1706810023408925,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0142",
+    "formula": "FeP_var_142",
+    "dg_h": 0.06181211049559357,
+    "formation_energy_per_atom": -0.2687395027623779,
+    "synthesizability": 0.6487255849511632,
+    "kinetic_stability": 1.3163185647547344,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0143",
+    "formula": "Ni2P_var_143",
+    "dg_h": 0.06818662550584952,
+    "formation_energy_per_atom": -0.2751779413699664,
+    "synthesizability": 0.7040639100459756,
+    "kinetic_stability": 0.7450466891605625,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0144",
+    "formula": "Pt_var_144",
+    "dg_h": -0.13968590326726213,
+    "formation_energy_per_atom": 0.038784488153046616,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.7272527148744627,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0145",
+    "formula": "Pt_var_145",
+    "dg_h": -0.12475267337729551,
+    "formation_energy_per_atom": 0.08291386845852686,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.8666087325263079,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0146",
+    "formula": "Pt_var_146",
+    "dg_h": -0.3472931241384344,
+    "formation_energy_per_atom": -0.03855382399679112,
+    "synthesizability": 1.0,
+    "kinetic_stability": 1.5997951618749413,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0147",
+    "formula": "WS2_var_147",
+    "dg_h": 0.04262108008964269,
+    "formation_energy_per_atom": -0.6244654703311417,
+    "synthesizability": 0.7221279751095722,
+    "kinetic_stability": 1.4488132934467548,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0148",
+    "formula": "CoP_var_148",
+    "dg_h": 0.1813688575956651,
+    "formation_energy_per_atom": -0.5001164448343087,
+    "synthesizability": 0.6731165823204824,
+    "kinetic_stability": 0.8680407137153747,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0149",
+    "formula": "FeP_var_149",
+    "dg_h": 0.3282163618536079,
+    "formation_energy_per_atom": -0.2609725380938212,
+    "synthesizability": 0.6716861036982938,
+    "kinetic_stability": 1.132634999594042,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0150",
+    "formula": "WS2_var_150",
+    "dg_h": 0.059735219469468456,
+    "formation_energy_per_atom": -0.3698150831839905,
+    "synthesizability": 0.8372581115622523,
+    "kinetic_stability": 0.851383227120626,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0151",
+    "formula": "WSe2_var_151",
+    "dg_h": 0.18557249122886946,
+    "formation_energy_per_atom": -0.37058084815290515,
+    "synthesizability": 0.6307535370285181,
+    "kinetic_stability": 1.4588650958381841,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0152",
+    "formula": "MoS2_var_152",
+    "dg_h": 0.000349704134241291,
+    "formation_energy_per_atom": -0.5339224768277859,
+    "synthesizability": 0.9975318860212307,
+    "kinetic_stability": 1.3956515863272312,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0153",
+    "formula": "MoSe2_var_153",
+    "dg_h": 0.2352246489030268,
+    "formation_energy_per_atom": -0.782073737397813,
+    "synthesizability": 0.8270120428553613,
+    "kinetic_stability": 1.1884420040442008,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0154",
+    "formula": "WS2_var_154",
+    "dg_h": 0.20405272502515565,
+    "formation_energy_per_atom": -0.5038491720019741,
+    "synthesizability": 0.8556520107514711,
+    "kinetic_stability": 1.0247967878335096,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0155",
+    "formula": "MoSe2_var_155",
+    "dg_h": 0.12542569359140557,
+    "formation_energy_per_atom": -0.5772723569747671,
+    "synthesizability": 0.5803113357058428,
+    "kinetic_stability": 0.9837115400446563,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0156",
+    "formula": "FeP_var_156",
+    "dg_h": 0.2538826145111929,
+    "formation_energy_per_atom": -0.3898216028315353,
+    "synthesizability": 0.5593096505858246,
+    "kinetic_stability": 0.7838103294090449,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0157",
+    "formula": "WS2_var_157",
+    "dg_h": 0.018280782945460927,
+    "formation_energy_per_atom": -0.4483330691351877,
+    "synthesizability": 0.8200889429174735,
+    "kinetic_stability": 0.9506393025850911,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0158",
+    "formula": "Pt_var_158",
+    "dg_h": -0.14783139229273007,
+    "formation_energy_per_atom": -0.09105578447398802,
+    "synthesizability": 0.9029135352353671,
+    "kinetic_stability": 0.5164116461049746,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0159",
+    "formula": "MoSe2_var_159",
+    "dg_h": 0.16980847607678548,
+    "formation_energy_per_atom": -0.5644360411923943,
+    "synthesizability": 0.7926337993119763,
+    "kinetic_stability": 0.8359423176278824,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0160",
+    "formula": "Pt_var_160",
+    "dg_h": 0.01861055267696557,
+    "formation_energy_per_atom": -0.0394582318236595,
+    "synthesizability": 0.8249264280551438,
+    "kinetic_stability": 1.2102826784338232,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0161",
+    "formula": "MoSe2_var_161",
+    "dg_h": 0.2888582269040288,
+    "formation_energy_per_atom": -0.8159351357049374,
+    "synthesizability": 0.6421623345081057,
+    "kinetic_stability": 0.6278079766937288,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0162",
+    "formula": "Ni2P_var_162",
+    "dg_h": 0.014346791005592337,
+    "formation_energy_per_atom": -0.27617037378785514,
+    "synthesizability": 0.6932280965224309,
+    "kinetic_stability": 0.9335433709945848,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0163",
+    "formula": "MoSe2_var_163",
+    "dg_h": 0.009248830528217872,
+    "formation_energy_per_atom": -0.6277816687590876,
+    "synthesizability": 0.7389424154534171,
+    "kinetic_stability": 1.5256811330270867,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0164",
+    "formula": "CoP_var_164",
+    "dg_h": 0.0743182972074268,
+    "formation_energy_per_atom": -0.24757134182206095,
+    "synthesizability": 0.5377476369802248,
+    "kinetic_stability": 1.1022965056831402,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0165",
+    "formula": "CoP_var_165",
+    "dg_h": 0.10987457776373347,
+    "formation_energy_per_atom": -0.3630345145987208,
+    "synthesizability": 0.7500477519420632,
+    "kinetic_stability": 0.6840223838065012,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0166",
+    "formula": "CoP_var_166",
+    "dg_h": 0.1861965085060156,
+    "formation_energy_per_atom": -0.2876600561083648,
+    "synthesizability": 0.7013000506495125,
+    "kinetic_stability": 1.0184705861876353,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0167",
+    "formula": "Ni2P_var_167",
+    "dg_h": 0.01390338341809201,
+    "formation_energy_per_atom": -0.1840670196635752,
+    "synthesizability": 0.6418936672400103,
+    "kinetic_stability": 1.1847806820832791,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0168",
+    "formula": "CoP_var_168",
+    "dg_h": 0.03965637450972373,
+    "formation_energy_per_atom": -0.3757122271247218,
+    "synthesizability": 0.8363153102106705,
+    "kinetic_stability": 1.230975867558899,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0169",
+    "formula": "Pt_var_169",
+    "dg_h": -0.25697791720684005,
+    "formation_energy_per_atom": 0.1764686934262719,
+    "synthesizability": 0.8658498769050877,
+    "kinetic_stability": 0.7551083772835463,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0170",
+    "formula": "WS2_var_170",
+    "dg_h": 0.0870669001680198,
+    "formation_energy_per_atom": -0.509682603739341,
+    "synthesizability": 0.852446945583565,
+    "kinetic_stability": 1.3047060835190454,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0171",
+    "formula": "FeP_var_171",
+    "dg_h": -0.05819294078837223,
+    "formation_energy_per_atom": -0.15035436317099618,
+    "synthesizability": 0.6711017467202619,
+    "kinetic_stability": 0.9709860664388823,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0172",
+    "formula": "Ni2P_var_172",
+    "dg_h": 0.014496767235327578,
+    "formation_energy_per_atom": -0.2742526765417342,
+    "synthesizability": 0.778447258916954,
+    "kinetic_stability": 1.0115654546052675,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0173",
+    "formula": "CoP_var_173",
+    "dg_h": 0.06642849271134292,
+    "formation_energy_per_atom": -0.21539557925352826,
+    "synthesizability": 0.9155239538433073,
+    "kinetic_stability": 1.2016771853241317,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0174",
+    "formula": "CoP_var_174",
+    "dg_h": 0.16173898097203254,
+    "formation_energy_per_atom": -0.4700169996401609,
+    "synthesizability": 0.5955505253600121,
+    "kinetic_stability": 0.9332815840336472,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0175",
+    "formula": "Pt_var_175",
+    "dg_h": -0.14397596803093615,
+    "formation_energy_per_atom": -0.07783047254023127,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.7064881667154904,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0176",
+    "formula": "Ni2P_var_176",
+    "dg_h": 0.03513035758877796,
+    "formation_energy_per_atom": -0.36792419167134394,
+    "synthesizability": 0.9310950266331943,
+    "kinetic_stability": 0.9937453718004591,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0177",
+    "formula": "Pt_var_177",
+    "dg_h": 0.07205334451658771,
+    "formation_energy_per_atom": 0.1570494635261139,
+    "synthesizability": 0.8896242108436629,
+    "kinetic_stability": 1.153088916874697,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0178",
+    "formula": "Pt_var_178",
+    "dg_h": -0.12232652892960563,
+    "formation_energy_per_atom": 0.11430659028899189,
+    "synthesizability": 0.9481295159193551,
+    "kinetic_stability": 1.4364783424977,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0179",
+    "formula": "WS2_var_179",
+    "dg_h": 0.1717659020469123,
+    "formation_energy_per_atom": -0.5725743813153465,
+    "synthesizability": 0.9186766764477079,
+    "kinetic_stability": 0.7733851202940032,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0180",
+    "formula": "WS2_var_180",
+    "dg_h": 0.20244153882574606,
+    "formation_energy_per_atom": -0.512461378134347,
+    "synthesizability": 0.9748034725961725,
+    "kinetic_stability": 1.4502914891692869,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0181",
+    "formula": "Ni2P_var_181",
+    "dg_h": 0.2581314656765142,
+    "formation_energy_per_atom": -0.33045536384872576,
+    "synthesizability": 0.759532080694772,
+    "kinetic_stability": 1.0537110389646895,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0182",
+    "formula": "MoS2_var_182",
+    "dg_h": 0.10977602509183973,
+    "formation_energy_per_atom": -0.771954100671222,
+    "synthesizability": 0.9783558070610913,
+    "kinetic_stability": 0.9158151951505556,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0183",
+    "formula": "MoS2_var_183",
+    "dg_h": 0.3360084538268795,
+    "formation_energy_per_atom": -0.609605989972465,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.7890470724622338,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0184",
+    "formula": "Pt_var_184",
+    "dg_h": -0.21680215116430682,
+    "formation_energy_per_atom": -0.1329145827161516,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.788716260823032,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0185",
+    "formula": "FeP_var_185",
+    "dg_h": -0.005795231767666803,
+    "formation_energy_per_atom": -0.3600381360183318,
+    "synthesizability": 0.6999737620112111,
+    "kinetic_stability": 1.1597785328111654,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0186",
+    "formula": "WSe2_var_186",
+    "dg_h": 0.14922143833201876,
+    "formation_energy_per_atom": -0.5458898421976203,
+    "synthesizability": 0.8663737213888021,
+    "kinetic_stability": 1.3030424381285854,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0187",
+    "formula": "MoS2_var_187",
+    "dg_h": 0.09777010009332539,
+    "formation_energy_per_atom": -0.7335344358710101,
+    "synthesizability": 0.9880197851005963,
+    "kinetic_stability": 1.183175723585147,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0188",
+    "formula": "Pt_var_188",
+    "dg_h": -0.009519682126619466,
+    "formation_energy_per_atom": 0.09302533459535411,
+    "synthesizability": 0.9939741695910427,
+    "kinetic_stability": 1.0034045436928658,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0189",
+    "formula": "WS2_var_189",
+    "dg_h": -0.03265518616977467,
+    "formation_energy_per_atom": -0.5057904907337785,
+    "synthesizability": 0.981848473463854,
+    "kinetic_stability": 1.0401542962738,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0190",
+    "formula": "Ni2P_var_190",
+    "dg_h": 0.08575262438372203,
+    "formation_energy_per_atom": -0.3587269417766179,
+    "synthesizability": 0.7307220212761392,
+    "kinetic_stability": 0.9537889852099803,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0191",
+    "formula": "MoSe2_var_191",
+    "dg_h": 0.1460444846143345,
+    "formation_energy_per_atom": -0.4818499302627376,
+    "synthesizability": 0.8528318376130462,
+    "kinetic_stability": 1.0089268418487236,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0192",
+    "formula": "WS2_var_192",
+    "dg_h": 0.33910660055597175,
+    "formation_energy_per_atom": -0.4659932369474769,
+    "synthesizability": 0.7725931015046676,
+    "kinetic_stability": 1.4242121383008304,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0193",
+    "formula": "WSe2_var_193",
+    "dg_h": 0.07575151257728613,
+    "formation_energy_per_atom": -0.35220731707618347,
+    "synthesizability": 0.7738972746753205,
+    "kinetic_stability": 1.0404954162459066,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0194",
+    "formula": "CoP_var_194",
+    "dg_h": 0.11754210753001132,
+    "formation_energy_per_atom": -0.21114088785558172,
+    "synthesizability": 0.8230161313457146,
+    "kinetic_stability": 1.250818315347857,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0195",
+    "formula": "MoS2_var_195",
+    "dg_h": 0.10670502658692589,
+    "formation_energy_per_atom": -0.5110369204376563,
+    "synthesizability": 0.9582283989275424,
+    "kinetic_stability": 1.3196441125196055,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0196",
+    "formula": "FeP_var_196",
+    "dg_h": 0.40977046432343833,
+    "formation_energy_per_atom": -0.3850370944070027,
+    "synthesizability": 0.5822290994374956,
+    "kinetic_stability": 0.5436265376234064,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0197",
+    "formula": "Ni2P_var_197",
+    "dg_h": -0.11818203251332292,
+    "formation_energy_per_atom": -0.47585989999941475,
+    "synthesizability": 0.662736937262899,
+    "kinetic_stability": 1.238097382594106,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0198",
+    "formula": "MoSe2_var_198",
+    "dg_h": -0.03613489036768236,
+    "formation_energy_per_atom": -0.5799738576609204,
+    "synthesizability": 0.8954563482299656,
+    "kinetic_stability": 1.2232114811947483,
+    "source": "generated"
+  },
+  {
+    "uid": "her_0199",
+    "formula": "Pt_var_199",
+    "dg_h": -0.09346848873867812,
+    "formation_energy_per_atom": 0.023421473253652077,
+    "synthesizability": 1.0,
+    "kinetic_stability": 0.7004937877783628,
+    "source": "generated"
+  }
+]

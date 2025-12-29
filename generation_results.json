@@ -1,0 +1,610 @@
+{
+  "target_properties": {
+    "dg_h": 0.0,
+    "thermodynamic_stability": -0.5,
+    "synthesizability": 0.8
+  },
+  "generated_materials": 100,
+  "properties": [
+    {
+      "dg_h": 0.0040932632982730865,
+      "thermodynamic_stability": -1.731858491897583,
+      "kinetic_stability": 2.829338550567627,
+      "synthesizability": 0.7461937069892883
+    },
+    {
+      "dg_h": 0.009197618812322617,
+      "thermodynamic_stability": -2.1304993629455566,
+      "kinetic_stability": 3.4444494247436523,
+      "synthesizability": 0.7985808849334717
+    },
+    {
+      "dg_h": 0.005417663604021072,
+      "thermodynamic_stability": -2.011084794998169,
+      "kinetic_stability": 3.2805123329162598,
+      "synthesizability": 0.7787930965423584
+    },
+    {
+      "dg_h": 0.011803116649389267,
+      "thermodynamic_stability": -1.7632907629013062,
+      "kinetic_stability": 2.8404150009155273,
+      "synthesizability": 0.7569590210914612
+    },
+    {
+      "dg_h": 0.02146926149725914,
+      "thermodynamic_stability": -2.0099408626556396,
+      "kinetic_stability": 3.201465129852295,
+      "synthesizability": 0.7869579792022705
+    },
+    {
+      "dg_h": 0.005210865288972855,
+      "thermodynamic_stability": -2.1965579986572266,
+      "kinetic_stability": 3.5336556434631348,
+      "synthesizability": 0.7958972454071045
+    },
+    {
+      "dg_h": 0.01695467159152031,
+      "thermodynamic_stability": -1.9928687810897827,
+      "kinetic_stability": 3.2634119987487793,
+      "synthesizability": 0.7837576866149902
+    },
+    {
+      "dg_h": 0.023016896098852158,
+      "thermodynamic_stability": -1.9301060438156128,
+      "kinetic_stability": 3.192814826965332,
+      "synthesizability": 0.7844558358192444
+    },
+    {
+      "dg_h": 0.02118692919611931,
+      "thermodynamic_stability": -2.2965850830078125,
+      "kinetic_stability": 3.6865339279174805,
+      "synthesizability": 0.8091015815734863
+    },
+    {
+      "dg_h": 0.010020393878221512,
+      "thermodynamic_stability": -1.8006852865219116,
+      "kinetic_stability": 2.943281650543213,
+      "synthesizability": 0.7584919333457947
+    },
+    {
+      "dg_h": 0.01315699890255928,
+      "thermodynamic_stability": -1.7647372484207153,
+      "kinetic_stability": 2.811127185821533,
+      "synthesizability": 0.7486369013786316
+    },
+    {
+      "dg_h": 0.019809972494840622,
+      "thermodynamic_stability": -2.476142168045044,
+      "kinetic_stability": 3.984203338623047,
+      "synthesizability": 0.8276514410972595
+    },
+    {
+      "dg_h": 0.00757044181227684,
+      "thermodynamic_stability": -1.7853566408157349,
+      "kinetic_stability": 2.9261574745178223,
+      "synthesizability": 0.7547707557678223
+    },
+    {
+      "dg_h": 0.020582925528287888,
+      "thermodynamic_stability": -2.03774094581604,
+      "kinetic_stability": 3.3680262565612793,
+      "synthesizability": 0.7886669635772705
+    },
+    {
+      "dg_h": 0.011111054569482803,
+      "thermodynamic_stability": -1.8948818445205688,
+      "kinetic_stability": 3.065678834915161,
+      "synthesizability": 0.7756223082542419
+    },
+    {
+      "dg_h": 0.006231140345335007,
+      "thermodynamic_stability": -1.9098787307739258,
+      "kinetic_stability": 3.1229281425476074,
+      "synthesizability": 0.7528629899024963
+    },
+    {
+      "dg_h": 0.03565869852900505,
+      "thermodynamic_stability": -2.9968225955963135,
+      "kinetic_stability": 4.732080459594727,
+      "synthesizability": 0.8834298253059387
+    },
+    {
+      "dg_h": 0.010461550205945969,
+      "thermodynamic_stability": -2.289346933364868,
+      "kinetic_stability": 3.7078499794006348,
+      "synthesizability": 0.8196272850036621
+    },
+    {
+      "dg_h": 0.0042151473462581635,
+      "thermodynamic_stability": -3.014181613922119,
+      "kinetic_stability": 4.797335624694824,
+      "synthesizability": 0.8755643963813782
+    },
+    {
+      "dg_h": 0.009911920875310898,
+      "thermodynamic_stability": -1.836150050163269,
+      "kinetic_stability": 2.9627532958984375,
+      "synthesizability": 0.7575473785400391
+    },
+    {
+      "dg_h": 0.003306787461042404,
+      "thermodynamic_stability": -1.9937740564346313,
+      "kinetic_stability": 3.170661449432373,
+      "synthesizability": 0.7674847841262817
+    },
+    {
+      "dg_h": 0.012170042842626572,
+      "thermodynamic_stability": -2.321998119354248,
+      "kinetic_stability": 3.6721551418304443,
+      "synthesizability": 0.8126723766326904
+    },
+    {
+      "dg_h": 0.01018182560801506,
+      "thermodynamic_stability": -1.6626800298690796,
+      "kinetic_stability": 2.7050023078918457,
+      "synthesizability": 0.7358502745628357
+    },
+    {
+      "dg_h": 0.012711215764284134,
+      "thermodynamic_stability": -1.6423437595367432,
+      "kinetic_stability": 2.6804018020629883,
+      "synthesizability": 0.7449021935462952
+    },
+    {
+      "dg_h": 0.006043482571840286,
+      "thermodynamic_stability": -1.7763532400131226,
+      "kinetic_stability": 2.9452929496765137,
+      "synthesizability": 0.7566402554512024
+    },
+    {
+      "dg_h": 0.011455979198217392,
+      "thermodynamic_stability": -1.7676563262939453,
+      "kinetic_stability": 2.87988018989563,
+      "synthesizability": 0.7557356953620911
+    },
+    {
+      "dg_h": 0.012824755162000656,
+      "thermodynamic_stability": -2.4220588207244873,
+      "kinetic_stability": 3.825680732727051,
+      "synthesizability": 0.8187047243118286
+    },
+    {
+      "dg_h": 0.015145201236009598,
+      "thermodynamic_stability": -1.8166102170944214,
+      "kinetic_stability": 2.877598762512207,
+      "synthesizability": 0.7555526494979858
+    },
+    {
+      "dg_h": 0.014920111745595932,
+      "thermodynamic_stability": -1.833429217338562,
+      "kinetic_stability": 2.953838586807251,
+      "synthesizability": 0.7610597610473633
+    },
+    {
+      "dg_h": 0.01078743115067482,
+      "thermodynamic_stability": -2.0316479206085205,
+      "kinetic_stability": 3.260873556137085,
+      "synthesizability": 0.7888102531433105
+    },
+    {
+      "dg_h": 0.01892959699034691,
+      "thermodynamic_stability": -2.1554534435272217,
+      "kinetic_stability": 3.414125680923462,
+      "synthesizability": 0.7853711843490601
+    },
+    {
+      "dg_h": 0.012127738445997238,
+      "thermodynamic_stability": -1.7577910423278809,
+      "kinetic_stability": 2.9022393226623535,
+      "synthesizability": 0.7560733556747437
+    },
+    {
+      "dg_h": 0.012150097638368607,
+      "thermodynamic_stability": -1.9774410724639893,
+      "kinetic_stability": 3.2336106300354004,
+      "synthesizability": 0.78070068359375
+    },
+    {
+      "dg_h": 0.004879940301179886,
+      "thermodynamic_stability": -2.8128066062927246,
+      "kinetic_stability": 4.358882427215576,
+      "synthesizability": 0.8476568460464478
+    },
+    {
+      "dg_h": 0.006740819662809372,
+      "thermodynamic_stability": -2.492333173751831,
+      "kinetic_stability": 4.02396297454834,
+      "synthesizability": 0.8400757312774658
+    },
+    {
+      "dg_h": 0.021514441817998886,
+      "thermodynamic_stability": -2.303940534591675,
+      "kinetic_stability": 3.7021689414978027,
+      "synthesizability": 0.8098107576370239
+    },
+    {
+      "dg_h": 0.01458859071135521,
+      "thermodynamic_stability": -1.9707974195480347,
+      "kinetic_stability": 3.198040008544922,
+      "synthesizability": 0.7800358533859253
+    },
+    {
+      "dg_h": 0.018807005137205124,
+      "thermodynamic_stability": -3.9843757152557373,
+      "kinetic_stability": 6.308102130889893,
+      "synthesizability": 0.9248560667037964
+    },
+    {
+      "dg_h": 0.017555635422468185,
+      "thermodynamic_stability": -2.0925519466400146,
+      "kinetic_stability": 3.395188331604004,
+      "synthesizability": 0.7987976670265198
+    },
+    {
+      "dg_h": 0.021962855011224747,
+      "thermodynamic_stability": -1.774804949760437,
+      "kinetic_stability": 2.889286756515503,
+      "synthesizability": 0.7632874846458435
+    },
+    {
+      "dg_h": 0.023956086486577988,
+      "thermodynamic_stability": -3.2260959148406982,
+      "kinetic_stability": 5.138319969177246,
+      "synthesizability": 0.8888658881187439
+    },
+    {
+      "dg_h": 0.010257717221975327,
+      "thermodynamic_stability": -2.2306313514709473,
+      "kinetic_stability": 3.5405337810516357,
+      "synthesizability": 0.7948013544082642
+    },
+    {
+      "dg_h": 0.005101043730974197,
+      "thermodynamic_stability": -2.000878095626831,
+      "kinetic_stability": 3.2193565368652344,
+      "synthesizability": 0.7637370228767395
+    },
+    {
+      "dg_h": 0.01883406564593315,
+      "thermodynamic_stability": -2.2827870845794678,
+      "kinetic_stability": 3.5947790145874023,
+      "synthesizability": 0.8050282597541809
+    },
+    {
+      "dg_h": 0.015231505036354065,
+      "thermodynamic_stability": -1.9487760066986084,
+      "kinetic_stability": 3.149794340133667,
+      "synthesizability": 0.7655647993087769
+    },
+    {
+      "dg_h": 0.005546007305383682,
+      "thermodynamic_stability": -1.8952363729476929,
+      "kinetic_stability": 3.0492022037506104,
+      "synthesizability": 0.7771192193031311
+    },
+    {
+      "dg_h": 0.020142007619142532,
+      "thermodynamic_stability": -1.8513827323913574,
+      "kinetic_stability": 2.954148054122925,
+      "synthesizability": 0.7726425528526306
+    },
+    {
+      "dg_h": 0.009911995381116867,
+      "thermodynamic_stability": -2.3528523445129395,
+      "kinetic_stability": 3.724518299102783,
+      "synthesizability": 0.8092620968818665
+    },
+    {
+      "dg_h": 0.010305117815732956,
+      "thermodynamic_stability": -1.7614805698394775,
+      "kinetic_stability": 2.8920881748199463,
+      "synthesizability": 0.7537071704864502
+    },
+    {
+      "dg_h": 0.016839172691106796,
+      "thermodynamic_stability": -2.060972213745117,
+      "kinetic_stability": 3.3689792156219482,
+      "synthesizability": 0.7860085368156433
+    },
+    {
+      "dg_h": 0.005463089793920517,
+      "thermodynamic_stability": -1.9782477617263794,
+      "kinetic_stability": 3.153566837310791,
+      "synthesizability": 0.7720544934272766
+    },
+    {
+      "dg_h": 0.00703020766377449,
+      "thermodynamic_stability": -1.639871597290039,
+      "kinetic_stability": 2.644676685333252,
+      "synthesizability": 0.7457398772239685
+    },
+    {
+      "dg_h": 0.006002884358167648,
+      "thermodynamic_stability": -1.847362756729126,
+      "kinetic_stability": 2.9957003593444824,
+      "synthesizability": 0.7616991400718689
+    },
+    {
+      "dg_h": 0.012413140386343002,
+      "thermodynamic_stability": -1.9954944849014282,
+      "kinetic_stability": 3.219752311706543,
+      "synthesizability": 0.77846360206604
+    },
+    {
+      "dg_h": -0.005082901567220688,
+      "thermodynamic_stability": -2.038707733154297,
+      "kinetic_stability": 3.2831976413726807,
+      "synthesizability": 0.775122880935669
+    },
+    {
+      "dg_h": 0.010468926280736923,
+      "thermodynamic_stability": -1.9858027696609497,
+      "kinetic_stability": 3.181457996368408,
+      "synthesizability": 0.7782919406890869
+    },
+    {
+      "dg_h": 0.01553504541516304,
+      "thermodynamic_stability": -1.8976253271102905,
+      "kinetic_stability": 3.0525784492492676,
+      "synthesizability": 0.763873815536499
+    },
+    {
+      "dg_h": 0.013639789074659348,
+      "thermodynamic_stability": -2.5968945026397705,
+      "kinetic_stability": 4.13140869140625,
+      "synthesizability": 0.8398793935775757
+    },
+    {
+      "dg_h": 0.015954751521348953,
+      "thermodynamic_stability": -2.391634225845337,
+      "kinetic_stability": 3.8503036499023438,
+      "synthesizability": 0.8172143697738647
+    },
+    {
+      "dg_h": 0.012168746441602707,
+      "thermodynamic_stability": -1.6803416013717651,
+      "kinetic_stability": 2.680380344390869,
+      "synthesizability": 0.7445183992385864
+    },
+    {
+      "dg_h": 0.0038889609277248383,
+      "thermodynamic_stability": -2.5021626949310303,
+      "kinetic_stability": 4.143336772918701,
+      "synthesizability": 0.8237577080726624
+    },
+    {
+      "dg_h": 0.0008020736277103424,
+      "thermodynamic_stability": -2.1711971759796143,
+      "kinetic_stability": 3.529733180999756,
+      "synthesizability": 0.7885746359825134
+    },
+    {
+      "dg_h": 0.01908622309565544,
+      "thermodynamic_stability": -2.568838119506836,
+      "kinetic_stability": 4.179029941558838,
+      "synthesizability": 0.8384836316108704
+    },
+    {
+      "dg_h": -0.0006224475800991058,
+      "thermodynamic_stability": -1.758183240890503,
+      "kinetic_stability": 2.930514097213745,
+      "synthesizability": 0.762313961982727
+    },
+    {
+      "dg_h": 0.011086937040090561,
+      "thermodynamic_stability": -2.5742976665496826,
+      "kinetic_stability": 4.191310405731201,
+      "synthesizability": 0.8419544100761414
+    },
+    {
+      "dg_h": 0.004043009132146835,
+      "thermodynamic_stability": -1.896743655204773,
+      "kinetic_stability": 3.001739025115967,
+      "synthesizability": 0.76115483045578
+    },
+    {
+      "dg_h": 0.018165674060583115,
+      "thermodynamic_stability": -3.0829806327819824,
+      "kinetic_stability": 4.850856304168701,
+      "synthesizability": 0.882567286491394
+    },
+    {
+      "dg_h": 0.011006120592355728,
+      "thermodynamic_stability": -2.0387938022613525,
+      "kinetic_stability": 3.27569580078125,
+      "synthesizability": 0.783672571182251
+    },
+    {
+      "dg_h": 0.015172895044088364,
+      "thermodynamic_stability": -2.534180164337158,
+      "kinetic_stability": 4.147322654724121,
+      "synthesizability": 0.8367502689361572
+    },
+    {
+      "dg_h": 0.01739376410841942,
+      "thermodynamic_stability": -2.180157423019409,
+      "kinetic_stability": 3.497215747833252,
+      "synthesizability": 0.800301194190979
+    },
+    {
+      "dg_h": 0.008586045354604721,
+      "thermodynamic_stability": -2.642702341079712,
+      "kinetic_stability": 4.226492881774902,
+      "synthesizability": 0.8333454728126526
+    },
+    {
+      "dg_h": 0.011368688195943832,
+      "thermodynamic_stability": -2.136031150817871,
+      "kinetic_stability": 3.4924135208129883,
+      "synthesizability": 0.7940231561660767
+    },
+    {
+      "dg_h": 0.008809622377157211,
+      "thermodynamic_stability": -2.0537898540496826,
+      "kinetic_stability": 3.2298312187194824,
+      "synthesizability": 0.7833083271980286
+    },
+    {
+      "dg_h": -0.004376251250505447,
+      "thermodynamic_stability": -2.3940987586975098,
+      "kinetic_stability": 3.9728574752807617,
+      "synthesizability": 0.8223085403442383
+    },
+    {
+      "dg_h": 0.014943737536668777,
+      "thermodynamic_stability": -2.208423376083374,
+      "kinetic_stability": 3.576169729232788,
+      "synthesizability": 0.8008714914321899
+    },
+    {
+      "dg_h": 0.02160840854048729,
+      "thermodynamic_stability": -2.5923001766204834,
+      "kinetic_stability": 4.110968589782715,
+      "synthesizability": 0.8427653312683105
+    },
+    {
+      "dg_h": 0.013574067503213882,
+      "thermodynamic_stability": -1.9769787788391113,
+      "kinetic_stability": 3.22640061378479,
+      "synthesizability": 0.7737041115760803
+    },
+    {
+      "dg_h": 0.005526255816221237,
+      "thermodynamic_stability": -2.141204595565796,
+      "kinetic_stability": 3.4432966709136963,
+      "synthesizability": 0.7994003891944885
+    },
+    {
+      "dg_h": 0.008512292057275772,
+      "thermodynamic_stability": -2.2976903915405273,
+      "kinetic_stability": 3.7259774208068848,
+      "synthesizability": 0.8215298652648926
+    },
+    {
+      "dg_h": 0.02846948429942131,
+      "thermodynamic_stability": -2.031411647796631,
+      "kinetic_stability": 3.26469349861145,
+      "synthesizability": 0.7813513278961182
+    },
+    {
+      "dg_h": 0.009907390922307968,
+      "thermodynamic_stability": -1.9542638063430786,
+      "kinetic_stability": 3.1422300338745117,
+      "synthesizability": 0.7652317881584167
+    },
+    {
+      "dg_h": -0.00031298771500587463,
+      "thermodynamic_stability": -2.03410267829895,
+      "kinetic_stability": 3.257143974304199,
+      "synthesizability": 0.7844003438949585
+    },
+    {
+      "dg_h": 0.007262978702783585,
+      "thermodynamic_stability": -2.2214550971984863,
+      "kinetic_stability": 3.5452537536621094,
+      "synthesizability": 0.7990280389785767
+    },
+    {
+      "dg_h": 0.0147688128054142,
+      "thermodynamic_stability": -1.804888129234314,
+      "kinetic_stability": 2.947038173675537,
+      "synthesizability": 0.749174177646637
+    },
+    {
+      "dg_h": 0.009240664541721344,
+      "thermodynamic_stability": -1.7413519620895386,
+      "kinetic_stability": 2.7922377586364746,
+      "synthesizability": 0.746637761592865
+    },
+    {
+      "dg_h": 0.00595463439822197,
+      "thermodynamic_stability": -2.386093854904175,
+      "kinetic_stability": 3.8274478912353516,
+      "synthesizability": 0.8117307424545288
+    },
+    {
+      "dg_h": 0.01989026740193367,
+      "thermodynamic_stability": -2.32604718208313,
+      "kinetic_stability": 3.7588751316070557,
+      "synthesizability": 0.823226273059845
+    },
+    {
+      "dg_h": 0.012476984411478043,
+      "thermodynamic_stability": -2.6734490394592285,
+      "kinetic_stability": 4.229114532470703,
+      "synthesizability": 0.8439305424690247
+    },
+    {
+      "dg_h": 0.00019419565796852112,
+      "thermodynamic_stability": -1.6018468141555786,
+      "kinetic_stability": 2.6006722450256348,
+      "synthesizability": 0.7260717749595642
+    },
+    {
+      "dg_h": 0.010232288390398026,
+      "thermodynamic_stability": -1.949892520904541,
+      "kinetic_stability": 3.130725383758545,
+      "synthesizability": 0.7674089074134827
+    },
+    {
+      "dg_h": 0.020547624677419662,
+      "thermodynamic_stability": -2.002695322036743,
+      "kinetic_stability": 3.29361891746521,
+      "synthesizability": 0.7748823165893555
+    },
+    {
+      "dg_h": 0.02188662439584732,
+      "thermodynamic_stability": -1.8092166185379028,
+      "kinetic_stability": 3.0151171684265137,
+      "synthesizability": 0.7621585130691528
+    },
+    {
+      "dg_h": 0.02174782007932663,
+      "thermodynamic_stability": -1.741773009300232,
+      "kinetic_stability": 2.8293824195861816,
+      "synthesizability": 0.7519792318344116
+    },
+    {
+      "dg_h": 0.018670547753572464,
+      "thermodynamic_stability": -2.262322187423706,
+      "kinetic_stability": 3.735316514968872,
+      "synthesizability": 0.817039966583252
+    },
+    {
+      "dg_h": 0.01674027368426323,
+      "thermodynamic_stability": -1.8754959106445312,
+      "kinetic_stability": 3.0434389114379883,
+      "synthesizability": 0.7778355479240417
+    },
+    {
+      "dg_h": 0.010618623346090317,
+      "thermodynamic_stability": -1.7523714303970337,
+      "kinetic_stability": 2.858384370803833,
+      "synthesizability": 0.7561920881271362
+    },
+    {
+      "dg_h": 0.011350218206644058,
+      "thermodynamic_stability": -1.7221182584762573,
+      "kinetic_stability": 2.8255178928375244,
+      "synthesizability": 0.7471590042114258
+    },
+    {
+      "dg_h": 0.0004064328968524933,
+      "thermodynamic_stability": -2.267637014389038,
+      "kinetic_stability": 3.6636271476745605,
+      "synthesizability": 0.7911761403083801
+    },
+    {
+      "dg_h": 0.020878229290246964,
+      "thermodynamic_stability": -2.588164806365967,
+      "kinetic_stability": 4.17542839050293,
+      "synthesizability": 0.8406721353530884
+    },
+    {
+      "dg_h": 0.008142124861478806,
+      "thermodynamic_stability": -1.795364260673523,
+      "kinetic_stability": 2.933255195617676,
+      "synthesizability": 0.7671866416931152
+    }
+  ]
+}
